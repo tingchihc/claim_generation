@@ -1,1 +1,1 @@
-temporary folder to save the results
+folder to save the results
