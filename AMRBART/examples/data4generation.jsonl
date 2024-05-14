@@ -1,0 +1,637 @@
+{"sent": "", "amr": "<pointer:0> have-rel-role-91 :ARG2 ( <pointer:1> daughter )"}
+{"sent": "", "amr": "<pointer:0> wear-01 :ARG1 ( <pointer:1> possible-01 )"}
+{"sent": "", "amr": "<pointer:0> sustain-01 :ARG1 ( <pointer:1> possible-01 :ARG1 ( <pointer:2> Desiree-01 ) ) :ARG1 ( <pointer:3> possible-01 )"}
+{"sent": "", "amr": "<pointer:0> possible-01 :ARG1 ( <pointer:1> Desiree-01 )"}
+{"sent": "", "amr": "<pointer:0> ready-01 :ARG2 ( <pointer:1> wear-01 :ARG1 ( <pointer:2> garment :ARG1 ( <pointer:3> upcyl-01 :time ( <pointer:4> before :op1 ( <pointer:5> trend-01 :ARG1 ( <pointer:6> practice ) ) ) ) ) ) :mod ( <pointer:7> ENT )"}
+{"sent": "", "amr": "<pointer:0> wear-01 :ARG1 ( <pointer:1> garment :ARG1 ( <pointer:2> upcyl-01 :time ( <pointer:3> before :op1 ( <pointer:4> trend-01 :ARG1 ( <pointer:5> practice ) ) ) ) )"}
+{"sent": "", "amr": "<pointer:0> garment :ARG1 ( <pointer:1> upcyl-01 :time ( <pointer:2> before :op1 ( <pointer:3> trend-01 :ARG1 ( <pointer:4> practice ) ) ) )"}
+{"sent": "", "amr": "<pointer:0> and :ARG1 ( <pointer:1> include-01 ) :op1 ( <pointer:2> person :ARG0 ( <pointer:3> sing-01 :manner ( <pointer:4> capella ) ) ) :op1 ( <pointer:5> print :mod ( <pointer:6> eclectic ) :ARG1 ( <pointer:7> mix-01 ) ) :op2 ( <pointer:8> screen-03 :ARG1 ( <pointer:9> video ) ) :op2 ( <pointer:10> t-shirt :mod ( <pointer:11> vintage ) ) :op3 ( <pointer:12> jacket :mod ( <pointer:13> track :mod ( <pointer:14> race ) ) :ARG1 ( <pointer:15> sequin-01 ) )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> sing-01 :manner ( <pointer:2> capella ) )"}
+{"sent": "", "amr": "<pointer:0> print :ARG1 ( <pointer:1> mix-01 ) :mod ( <pointer:2> eclectic )"}
+{"sent": "", "amr": "<pointer:0> screen-03 :ARG1 ( <pointer:1> video )"}
+{"sent": "", "amr": "<pointer:0> jacket :ARG1 ( <pointer:1> sequin-01 ) :mod ( <pointer:2> track :mod ( <pointer:3> race ) )"}
+{"sent": "", "amr": "<pointer:0> style :ARG2 ( <pointer:1> include-01 ) :mod ( <pointer:2> person :ARG0 ( <pointer:3> skate-01 ) )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> skate-01 )"}
+{"sent": "", "amr": "<pointer:0> work-01 :ARG1 ( <pointer:1> new-01 :ARG1 ( <pointer:2> goal :mod ( <pointer:3> end ) :purpose ( <pointer:4> work-01 ) ) )"}
+{"sent": "", "amr": "<pointer:0> new-01 :ARG1 ( <pointer:1> goal :mod ( <pointer:2> end ) :purpose ( <pointer:3> work-01 ) )"}
+{"sent": "", "amr": "<pointer:0> it :ARG0 ( <pointer:1> break-01 :ARG1 ( <pointer:2> system :mod ( <pointer:3> whole ) :poss ( <pointer:4> we ) ) )"}
+{"sent": "", "amr": "<pointer:0> break-01 :ARG1 ( <pointer:1> system :mod ( <pointer:2> whole ) :poss ( <pointer:3> we ) )"}
+{"sent": "", "amr": "<pointer:0> matrice :ARG1 ( <pointer:1> obligate-01 )"}
+{"sent": "", "amr": "<pointer:0> we :ARG0 ( <pointer:1> wonder-01 :ARG1 ( <pointer:2> buy-01 :ARG0 ( <pointer:3> amr-unknown ) ) :mod ( <pointer:4> just ) ) :mod ( <pointer:5> all )"}
+{"sent": "", "amr": "<pointer:0> see-01 :ARG1 ( <pointer:1> dream-01 :ARG1 ( <pointer:2> and :op1 ( <pointer:3> time :ARG1 ( <pointer:4> good-02 :degree ( <pointer:5> more ) ) ) :op2 ( <pointer:6> jet-01 :destination ( <pointer:7> yuan :ARG1 ( <pointer:8> fly-01 :ARG2 ( <pointer:9> far ) ) ) ) ) ) :rel ( <pointer:10> hand :manner ( <pointer:11> weave-01 :ARG1 ( <pointer:12> weptions-01 :ARG0 <pointer:12> ) ) )"}
+{"sent": "", "amr": "<pointer:0> see-01 :ARG1 ( <pointer:1> dream-01 :ARG1 ( <pointer:2> and :op1 ( <pointer:3> time :ARG1 ( <pointer:4> good-02 :degree ( <pointer:5> more ) ) ) :op2 ( <pointer:6> jet-01 :destination ( <pointer:7> yuan :ARG1 ( <pointer:8> fly-01 :ARG2 ( <pointer:9> far ) ) ) ) ) ) :rel ( <pointer:10> weave-01 :ARG1 ( <pointer:11> weptions-01 :ARG0 <pointer:11> ) )"}
+{"sent": "", "amr": "<pointer:0> part :ARG2 ( <pointer:1> comprise-01 :ARG1 ( <pointer:2> pump :mod ( <pointer:3> breast ) ) ) :ARG1 ( <pointer:4> hold-01 ) :quant ( <pointer:5> many )"}
+{"sent": "", "amr": "<pointer:0> comprise-01 :ARG1 ( <pointer:1> pump :mod ( <pointer:2> breast ) )"}
+{"sent": "", "amr": "<pointer:0> have-rel-role-91 :ARG0 ( <pointer:1> she :ARG0 ( <pointer:2> have-03 :ARG1 ( <pointer:3> wish-01 :ARG1 ( <pointer:4> cause-01 :ARG0 <pointer:5> ) ) ) :ARG0 ( <pointer:5> put-01 :ARG2 ( <pointer:6> bag :mod ( <pointer:7> zip ) :ARG1 ( <pointer:8> gross-06 ) :ARG1 ( <pointer:9> be-located-at-91 ) ) :time ( <pointer:10> always ) ) :ARG0 ( <pointer:11> highlight-01 :ARG1 ( <pointer:12> feature :ARG1 <pointer:13> ) ) :ARG0 ( <pointer:13> favor-01 ) )"}
+{"sent": "", "amr": "<pointer:0> she :ARG0 ( <pointer:1> have-03 :ARG1 ( <pointer:2> wish-01 :ARG1 ( <pointer:3> cause-01 :ARG0 ( <pointer:4> put-01 :ARG2 ( <pointer:5> bag :mod ( <pointer:6> zip ) :ARG1 ( <pointer:7> gross-06 ) :ARG1 ( <pointer:8> be-located-at-91 ) ) :time ( <pointer:9> always ) ) ) ) ) :ARG0 <pointer:4> :ARG0 ( <pointer:10> highlight-01 :ARG1 ( <pointer:11> feature :ARG1 ( <pointer:12> favor-01 ) ) ) :ARG0 <pointer:12>"}
+{"sent": "", "amr": "<pointer:0> put-01 :ARG0 ( <pointer:1> you ) :ARG1 ( <pointer:2> part :ARG1 ( <pointer:3> dirty-02 ) :ARG2 ( <pointer:4> have-03 :ARG1 ( <pointer:5> wish-01 :ARG1 ( <pointer:6> cause-01 :ARG0 <pointer:7> ) ) ) :ARG1 ( <pointer:7> put-01 :ARG2 ( <pointer:8> bag :mod ( <pointer:9> zip ) :ARG1 ( <pointer:10> gross-06 ) :ARG1 <pointer:12> ) :time ( <pointer:11> always ) ) :ARG2 ( <pointer:12> be-located-at-91 ) ) :ARG1 ( <pointer:13> possible-01 )"}
+{"sent": "", "amr": "<pointer:0> part :ARG1 ( <pointer:1> dirty-02 ) :ARG2 ( <pointer:2> have-03 :ARG1 ( <pointer:3> wish-01 :ARG1 ( <pointer:4> cause-01 :ARG0 ( <pointer:5> put-01 :ARG2 ( <pointer:6> bag :mod ( <pointer:7> zip ) :ARG1 ( <pointer:8> gross-06 ) :ARG1 ( <pointer:9> be-located-at-91 ) ) :time ( <pointer:10> always ) ) ) ) ) :ARG1 <pointer:5> :ARG2 <pointer:9>"}
+{"sent": "", "amr": "<pointer:0> have-03 :ARG1 ( <pointer:1> wish-01 :ARG1 ( <pointer:2> cause-01 :ARG0 ( <pointer:3> put-01 :ARG2 ( <pointer:4> bag :mod ( <pointer:5> zip ) :ARG1 ( <pointer:6> gross-06 ) :ARG1 ( <pointer:7> be-located-at-91 ) ) :time ( <pointer:8> always ) ) ) )"}
+{"sent": "", "amr": "<pointer:0> wish-01 :ARG1 ( <pointer:1> cause-01 :ARG0 ( <pointer:2> put-01 :ARG2 ( <pointer:3> bag :mod ( <pointer:4> zip ) :ARG1 ( <pointer:5> gross-06 ) :ARG1 ( <pointer:6> be-located-at-91 ) ) :time ( <pointer:7> always ) ) )"}
+{"sent": "", "amr": "<pointer:0> cause-01 :ARG0 ( <pointer:1> put-01 :ARG2 ( <pointer:2> bag :mod ( <pointer:3> zip ) :ARG1 ( <pointer:4> gross-06 ) :ARG1 ( <pointer:5> be-located-at-91 ) ) :time ( <pointer:6> always ) )"}
+{"sent": "", "amr": "<pointer:0> put-01 :ARG2 ( <pointer:1> bag :mod ( <pointer:2> zip ) :ARG1 ( <pointer:3> gross-06 ) :ARG1 ( <pointer:4> be-located-at-91 ) ) :time ( <pointer:5> always )"}
+{"sent": "", "amr": "<pointer:0> bag :ARG1 ( <pointer:1> gross-06 ) :ARG1 ( <pointer:2> be-located-at-91 ) :mod ( <pointer:3> zip )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> make-01 :ARG1 ( <pointer:2> cinema ) ) :ARG0 ( <pointer:3> design-01 ) :time ( <pointer:4> line :mod ( <pointer:5> menswear ) )"}
+{"sent": "", "amr": "<pointer:0> format :ARG1 ( <pointer:1> replace-01 ) :mod ( <pointer:2> tradition )"}
+{"sent": "", "amr": "<pointer:0> start-01 :ARG1 ( <pointer:1> roll-out-02 :ARG1 ( <pointer:2> mix-01 :ARG1 ( <pointer:3> show-04 :mod ( <pointer:4> virtual ) :prep-with ( <pointer:5> number :ARG1 ( <pointer:6> limit-01 ) :quant ( <pointer:7> audience ) ) :ARG1 ( <pointer:8> stooge-01 ) ) :ARG2 ( <pointer:9> show-04 :mod ( <pointer:10> case-04 :quant ( <pointer:11> some ) ) :mod ( <pointer:12> physical ) ) ) ) :ARG2 ( <pointer:13> replace-01 )"}
+{"sent": "", "amr": "<pointer:0> roll-out-02 :ARG1 ( <pointer:1> mix-01 :ARG1 ( <pointer:2> show-04 :mod ( <pointer:3> virtual ) :prep-with ( <pointer:4> number :ARG1 ( <pointer:5> limit-01 ) :quant ( <pointer:6> audience ) ) :ARG1 ( <pointer:7> stooge-01 ) ) :ARG2 ( <pointer:8> show-04 :mod ( <pointer:9> case-04 :quant ( <pointer:10> some ) ) :mod ( <pointer:11> physical ) ) )"}
+{"sent": "", "amr": "<pointer:0> mix-01 :ARG1 ( <pointer:1> show-04 :mod ( <pointer:2> virtual ) :prep-with ( <pointer:3> number :ARG1 ( <pointer:4> limit-01 ) :quant ( <pointer:5> audience ) ) :ARG1 ( <pointer:6> stooge-01 ) ) :ARG2 ( <pointer:7> show-04 :mod ( <pointer:8> case-04 :quant ( <pointer:9> some ) ) :mod ( <pointer:10> physical ) )"}
+{"sent": "", "amr": "<pointer:0> show-04 :ARG1 ( <pointer:1> stooge-01 ) :mod ( <pointer:2> virtual )"}
+{"sent": "", "amr": "<pointer:0> show-04 :ARG1 ( <pointer:1> stooge-01 ) :prep-with ( <pointer:2> number :ARG1 ( <pointer:3> limit-01 ) :quant ( <pointer:4> audience ) )"}
+{"sent": "", "amr": "<pointer:0> number :ARG1 ( <pointer:1> limit-01 ) :quant ( <pointer:2> audience )"}
+{"sent": "", "amr": "<pointer:0> walk-01 :ARG0 ( <pointer:1> model ) :mod ( <pointer:2> runway )"}
+{"sent": "", "amr": "<pointer:0> adapt-01 :ARG0 ( <pointer:1> person :ARG0 ( <pointer:2> organize-01 ) :ARG0 ( <pointer:3> host-01 :ARG1 ( <pointer:4> event :location ( <pointer:5> outdoor ) :quant ( <pointer:6> number ) ) ) ) :ARG2 ( <pointer:7> circumstance ) :ARG3 <pointer:3>"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> organize-01 ) :ARG0 ( <pointer:2> host-01 :ARG1 ( <pointer:3> event :location ( <pointer:4> outdoor ) :quant ( <pointer:5> number ) ) )"}
+{"sent": "", "amr": "<pointer:0> host-01 :ARG1 ( <pointer:1> event :location ( <pointer:2> outdoor ) :quant ( <pointer:3> number ) )"}
+{"sent": "", "amr": "<pointer:0> crowd :ARG1 ( <pointer:1> distance-01 :manner ( <pointer:2> social ) ) :mod ( <pointer:3> just )"}
+{"sent": "", "amr": "<pointer:0> fill-01 :ARG2 ( <pointer:1> plant )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> design-01 ) :ARG1 ( <pointer:2> return-01 )"}
+{"sent": "", "amr": "<pointer:0> show-04 :ARG1 ( <pointer:1> runway ) :mod ( <pointer:2> person )"}
+{"sent": "", "amr": "<pointer:0> platform :ARG1 ( <pointer:1> new-01 ) :beneficiary ( <pointer:2> offer-01 :ARG1 ( <pointer:3> initiative :mod ( <pointer:4> digital ) :ARG1 ( <pointer:5> call-01 :mod ( <pointer:6> so ) ) ) )"}
+{"sent": "", "amr": "<pointer:0> more :ARG1 ( <pointer:1> significant-02 )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> design-01 ) :ARG0 ( <pointer:2> see-01 ) :ARG0 ( <pointer:3> think-01 :time ( <pointer:4> stretch :location ( <pointer:5> home ) :mod ( <pointer:6> that ) :mod ( <pointer:7> time ) :ARG1 ( <pointer:8> long-03 ) ) ) :poss ( <pointer:9> collection :time ( <pointer:10> date-entity :season ( <pointer:11> spring ) ) :ARG1 ( <pointer:12> new-01 ) )"}
+{"sent": "", "amr": "<pointer:0> imagine-01 :ARG1 ( <pointer:1> put-01 :ARG1 ( <pointer:2> collection ) :ARG2 ( <pointer:3> together ) ) :ARG1 ( <pointer:4> cause-01 :ARG0 ( <pointer:5> and :op1 ( <pointer:6> event :location ( <pointer:7> world ) :ARG0 <pointer:8> ) :op2 ( <pointer:8> affect-01 :ARG1 ( <pointer:9> industry ) :ARG3 ( <pointer:10> ripple ) ) ) ) :mod ( <pointer:11> even )"}
+{"sent": "", "amr": "<pointer:0> imagine-01 :ARG1 ( <pointer:1> put-01 :ARG1 ( <pointer:2> collection ) :ARG2 ( <pointer:3> together ) ) :ARG1 ( <pointer:4> cause-01 :ARG0 ( <pointer:5> and :op1 ( <pointer:6> event :location ( <pointer:7> world ) :ARG0 <pointer:8> ) :op2 ( <pointer:8> affect-01 :ARG1 ( <pointer:9> industry ) :ARG3 ( <pointer:10> ripple ) ) ) ) :time ( <pointer:11> at-first )"}
+{"sent": "", "amr": "<pointer:0> present-01 :ARG1 ( <pointer:1> collection :mod ( <pointer:2> capsule ) )"}
+{"sent": "", "amr": "<pointer:0> platform :ARG0 ( <pointer:1> show-01 :ARG1 ( <pointer:2> or :op1 ( <pointer:3> collection :ARG1 ( <pointer:4> new-01 ) ) :op2 ( <pointer:5> project :mod ( <pointer:6> creative ) :mod ( <pointer:7> other ) ) ) ) :mod ( <pointer:8> digital )"}
+{"sent": "", "amr": "<pointer:0> show-01 :ARG1 ( <pointer:1> or :op1 ( <pointer:2> collection :ARG1 ( <pointer:3> new-01 ) ) :op2 ( <pointer:4> project :mod ( <pointer:5> creative ) :mod ( <pointer:6> other ) ) )"}
+{"sent": "", "amr": "<pointer:0> show-01 :ARG0 ( <pointer:1> she ) :ARG1 ( <pointer:2> curves :example ( <pointer:3> and :op1 ( <pointer:4> respecting :ARG1 ( <pointer:5> ruffle-01 ) :ARG1 ( <pointer:6> tie-01 ) :mod ( <pointer:7> frock ) ) :op2 ( <pointer:8> minidress :consist ( <pointer:9> lace :mod ( <pointer:10> sheer :mod <pointer:11> ) ) :mod ( <pointer:11> line ) ) ) :mod ( <pointer:12> heavy :topic ( <pointer:13> Romance ) ) :ARG1 ( <pointer:14> relax-01 :degree ( <pointer:15> more ) ) ) :mod ( <pointer:16> too )"}
+{"sent": "", "amr": "<pointer:0> show-01 :ARG0 ( <pointer:1> she ) :ARG1 ( <pointer:2> curves :example ( <pointer:3> and :op1 ( <pointer:4> respecting :ARG1 ( <pointer:5> ruffle-01 ) :ARG1 ( <pointer:6> tie-01 ) :mod ( <pointer:7> frock ) ) :op2 ( <pointer:8> minidress :consist ( <pointer:9> lace :mod ( <pointer:10> sheer :mod <pointer:11> ) ) :mod ( <pointer:11> line ) ) ) :mod ( <pointer:12> heavy :topic ( <pointer:13> Romance ) ) :ARG1 ( <pointer:14> relax-01 :degree ( <pointer:15> more ) ) ) :rel <pointer:7>"}
+{"sent": "", "amr": "<pointer:0> show-01 :ARG0 ( <pointer:1> she ) :ARG1 ( <pointer:2> curves :example ( <pointer:3> and :op1 ( <pointer:4> respecting :ARG1 ( <pointer:5> ruffle-01 ) :ARG1 ( <pointer:6> tie-01 ) :mod ( <pointer:7> frock ) ) :op2 ( <pointer:8> minidress :consist ( <pointer:9> lace :mod ( <pointer:10> sheer :mod <pointer:11> ) ) :mod ( <pointer:11> line ) ) ) :mod ( <pointer:12> heavy :topic ( <pointer:13> Romance ) ) :ARG1 ( <pointer:14> relax-01 :degree ( <pointer:15> more ) ) ) :rel ( <pointer:16> sleeve :mod ( <pointer:17> poufy ) )"}
+{"sent": "", "amr": "<pointer:0> make-02 :ARG0 ( <pointer:1> switch-01 :ARG2 ( <pointer:2> virtual ) ) :ARG1 ( <pointer:3> thing :ARG1 ( <pointer:4> sustain-01 :degree ( <pointer:5> more ) ) :ARG1 ( <pointer:6> present-01 ) ) :op3 ( <pointer:7> possible-01 ) :mod ( <pointer:8> also )"}
+{"sent": "", "amr": "<pointer:0> switch-01 :ARG2 ( <pointer:1> virtual )"}
+{"sent": "", "amr": "<pointer:0> thing :ARG1 ( <pointer:1> sustain-01 :degree ( <pointer:2> more ) ) :ARG1 ( <pointer:3> present-01 )"}
+{"sent": "", "amr": "<pointer:0> stripes-01 :ARG1 ( <pointer:1> week :mod ( <pointer:2> fashion ) :ARG1 ( <pointer:3> stud-01 :ARG2 ( <pointer:4> star :mod ( <pointer:5> associated ) ) :mod ( <pointer:6> usual ) ) ) :degree ( <pointer:7> whole )"}
+{"sent": "", "amr": "<pointer:0> presentation :ARG1 ( <pointer:1> dub-01 :ARG2 ( <pointer:2> cute :domain ( <pointer:3> change-01 ) ) ) :ARG1 ( <pointer:4> true-01 :ARG2 ( <pointer:5> root :mod ( <pointer:6> do-it-yourself ) :ARG1 ( <pointer:7> sustain-01 :ARG1 ( <pointer:8> possible-01 ) ) ) ) :mod ( <pointer:9> video )"}
+{"sent": "", "amr": "<pointer:0> presentation :ARG1 ( <pointer:1> dub-01 :ARG2 ( <pointer:2> cute :domain ( <pointer:3> change-01 ) ) ) :ARG1 ( <pointer:4> true-01 :ARG2 ( <pointer:5> root :mod ( <pointer:6> do-it-yourself ) :ARG1 ( <pointer:7> sustain-01 :ARG1 ( <pointer:8> possible-01 ) ) ) ) :mod ( <pointer:9> colorful :degree ( <pointer:10> wild ) )"}
+{"sent": "", "amr": "<pointer:0> stud-01 :ARG2 ( <pointer:1> star :mod ( <pointer:2> associated ) ) :mod ( <pointer:3> usual )"}
+{"sent": "", "amr": "<pointer:0> specialize-01 :ARG1 ( <pointer:1> showroom :medium ( <pointer:2> online ) )"}
+{"sent": "", "amr": "<pointer:0> serve-01 :ARG0 ( <pointer:1> they ) :ARG1 ( <pointer:2> pose :ARG1 ( <pointer:3> serious-01 ) ) :rel ( <pointer:4> design-01 )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> design-01 ) :ARG0 ( <pointer:2> show-01 :ARG1 ( <pointer:3> and :op1 ( <pointer:4> hopeful-03 ) :op2 ( <pointer:5> dream-01 ) :op3 ( <pointer:6> thread ) ) ) :ARG0 <pointer:4> :ARG0 <pointer:5> :poss <pointer:6>"}
+{"sent": "", "amr": "<pointer:0> spend-02 :ARG0 ( <pointer:1> person :quant ( <pointer:2> many ) ) :ARG1 ( <pointer:3> time :quant ( <pointer:4> lot ) ) :ARG2 ( <pointer:5> home ) :ARG1 ( <pointer:6> cause-01 :ARG0 ( <pointer:7> pandemic :mod ( <pointer:8> globe ) ) ) :mod ( <pointer:9> still )"}
+{"sent": "", "amr": "<pointer:0> cause-01 :ARG0 ( <pointer:1> pandemic :mod ( <pointer:2> globe ) )"}
+{"sent": "", "amr": "<pointer:0> hope-01 :ARG0 ( <pointer:1> person :ARG0 ( <pointer:2> design-01 ) ) :ARG1 ( <pointer:3> demand-01 :ARG0 ( <pointer:4> life :poss ( <pointer:5> we ) ) :ARG1 ( <pointer:6> ensemble :mod ( <pointer:7> glamorous ) ) :time ( <pointer:8> by :op1 ( <pointer:9> date-entity :season ( <pointer:10> spring ) :year ( <pointer:11> Ranch ) ) ) ) :ARG1 ( <pointer:12> judge-01 :ARG0 ( <pointer:13> collect-01 :quant ( <pointer:14> some ) :time ( <pointer:15> season :mod ( <pointer:16> this ) ) ) )"}
+{"sent": "", "amr": "<pointer:0> collection :ARG1 ( <pointer:1> ready-01 :ARG2 ( <pointer:2> wear-01 ) ) :ARG1 ( <pointer:3> conform-01 :ARG3 ( <pointer:4> aesthetic :mod ( <pointer:5> signature ) ) ) :accompanier ( <pointer:6> and :accompanier ( <pointer:7> and :op1 ( <pointer:8> sequin :mod ( <pointer:9> glitzy ) ) :op2 ( <pointer:10> leather ) :time ( <pointer:11> date-entity :dayperiod ( <pointer:12> night ) ) ) :op1 ( <pointer:13> print :mod ( <pointer:14> animal ) :ARG0 ( <pointer:15> comfort-01 ) ) :op2 ( <pointer:16> plaid ) :op3 ( <pointer:17> houndstooth ) :time ( <pointer:18> day ) )"}
+{"sent": "", "amr": "<pointer:0> collection :ARG1 ( <pointer:1> ready-01 :ARG2 ( <pointer:2> wear-01 ) ) :ARG1 ( <pointer:3> conform-01 :ARG3 ( <pointer:4> aesthetic :mod ( <pointer:5> signature ) ) ) :poss ( <pointer:6> she :poss <pointer:4> )"}
+{"sent": "", "amr": "<pointer:0> judge-01 :ARG0 ( <pointer:1> collect-01 :quant ( <pointer:2> some ) :time ( <pointer:3> season :mod ( <pointer:4> this ) ) )"}
+{"sent": "", "amr": "<pointer:0> breeze-01 :ARG0 ( <pointer:1> model :ARG0 ( <pointer:2> don-01 :ARG1 ( <pointer:3> and :mod ( <pointer:4> tone :mod ( <pointer:5> blue ) :mod ( <pointer:6> terracota ) ) :op1 ( <pointer:7> dress :mod ( <pointer:8> maxi ) :ARG1 ( <pointer:9> ready-01 :ARG2 ( <pointer:10> beach ) ) ) :op2 ( <pointer:11> shorts :ARG1 ( <pointer:12> tailor-01 ) ) ) ) ) :manner <pointer:2>"}
+{"sent": "", "amr": "<pointer:0> model :ARG0 ( <pointer:1> don-01 :ARG1 ( <pointer:2> and :mod ( <pointer:3> tone :mod ( <pointer:4> blue ) :mod ( <pointer:5> terracota ) ) :op1 ( <pointer:6> dress :mod ( <pointer:7> maxi ) :ARG1 ( <pointer:8> ready-01 :ARG2 ( <pointer:9> beach ) ) ) :op2 ( <pointer:10> shorts :ARG1 ( <pointer:11> tailor-01 ) ) ) )"}
+{"sent": "", "amr": "<pointer:0> i :ARG0 ( <pointer:1> be-done-08 :ARG1 ( <pointer:2> pump-01 ) ) :ARG0 <pointer:2> :ARG0 ( <pointer:3> be-done-08 :ARG1 ( <pointer:4> diaper-01 ) ) :ARG0 ( <pointer:5> wear-01 :ARG1 ( <pointer:6> love-02 ) ) :ARG0 <pointer:6> :ARG0 ( <pointer:7> have-03 )"}
+{"sent": "", "amr": "<pointer:0> predict-01 :ARG0 ( <pointer:1> she ) :ARG1 ( <pointer:2> spur-01 :ARG0 ( <pointer:3> and :op1 ( <pointer:4> lay-off-02 :mod ( <pointer:5> massive ) ) :op2 ( <pointer:6> Elementary :mod ( <pointer:7> remote ) ) :ARG1 ( <pointer:8> arise-02 :ARG0 ( <pointer:9> pandemic ) ) ) ) :mod ( <pointer:10> also )"}
+{"sent": "", "amr": "<pointer:0> predict-01 :ARG0 ( <pointer:1> she ) :ARG1 ( <pointer:2> spur-01 :ARG0 ( <pointer:3> and :op1 ( <pointer:4> lay-off-02 :mod ( <pointer:5> massive ) ) :op2 ( <pointer:6> Elementary :mod ( <pointer:7> remote ) ) :ARG1 ( <pointer:8> arise-02 :ARG0 ( <pointer:9> pandemic ) ) ) ) :rel ( <pointer:10> crisis :mod ( <pointer:11> cope-01 :ARG1 ( <pointer:12> child :op3 ( <pointer:13> DRAG ) :ARG1 <pointer:14> ) ) :topic ( <pointer:14> care-03 ) )"}
+{"sent": "", "amr": "<pointer:0> predict-01 :ARG0 ( <pointer:1> she ) :ARG1 ( <pointer:2> spur-01 :ARG0 ( <pointer:3> and :op1 ( <pointer:4> lay-off-02 :mod ( <pointer:5> massive ) ) :op2 ( <pointer:6> Elementary :mod ( <pointer:7> remote ) ) :ARG1 ( <pointer:8> arise-02 :ARG0 ( <pointer:9> pandemic ) ) ) ) :rel ( <pointer:10> new-01 :ARG1 ( <pointer:11> movement-07 :ARG1 <pointer:12> ) :ARG1 ( <pointer:12> entrepreneur ) )"}
+{"sent": "", "amr": "<pointer:0> person :ARG1 ( <pointer:1> sick-04 :ARG0 ( <pointer:2> thing :ARG1 ( <pointer:3> go-on-15 :time ( <pointer:4> now :mod ( <pointer:5> right ) ) ) ) :degree ( <pointer:6> so ) :ARG0 ( <pointer:7> cause-01 :ARG1 ( <pointer:8> come-up-11 :ARG1 ( <pointer:9> solution :purpose ( <pointer:10> and :op1 ( <pointer:11> make-01 :ARG1 ( <pointer:12> business ) ) :op2 ( <pointer:13> go-02 :ARG0 ( <pointer:14> mom ) :ARG4 ( <pointer:15> work-01 ) ) :op3 ( <pointer:16> homeschool-01 :ARG1 ( <pointer:17> person :ARG0 ( <pointer:18> have-rel-role-91 :ARG2 ( <pointer:19> child ) ) ) ) ) ) ) ) ) :ARG0 <pointer:8> :ARG0 <pointer:11> :ARG0 <pointer:15> :ARG0 <pointer:16> :ARG1 <pointer:18> :poss <pointer:12>"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> design-01 ) :prep-with ( <pointer:2> mindset :mod ( <pointer:3> escapist ) )"}
+{"sent": "", "amr": "<pointer:0> see-01 :ARG1 ( <pointer:1> dream-01 :ARG1 ( <pointer:2> and :op1 ( <pointer:3> time :ARG1 ( <pointer:4> good-02 :degree ( <pointer:5> more ) ) ) :op2 ( <pointer:6> jet-01 :destination ( <pointer:7> yuan :ARG1 ( <pointer:8> fly-01 :ARG2 ( <pointer:9> far ) ) ) ) ) ) :rel ( <pointer:10> hand :manner ( <pointer:11> weave-01 :ARG1 ( <pointer:12> weptions-01 :ARG0 <pointer:12> ) ) )"}
+{"sent": "", "amr": "<pointer:0> see-01 :ARG1 ( <pointer:1> dream-01 :ARG1 ( <pointer:2> and :op1 ( <pointer:3> time :ARG1 ( <pointer:4> good-02 :degree ( <pointer:5> more ) ) ) :op2 ( <pointer:6> jet-01 :destination ( <pointer:7> yuan :ARG1 ( <pointer:8> fly-01 :ARG2 ( <pointer:9> far ) ) ) ) ) ) :rel ( <pointer:10> weave-01 :ARG1 ( <pointer:11> weptions-01 :ARG0 <pointer:11> ) )"}
+{"sent": "", "amr": "<pointer:0> see-01 :ARG1 ( <pointer:1> dream-01 :ARG1 ( <pointer:2> and :op1 ( <pointer:3> time :ARG1 ( <pointer:4> good-02 :degree ( <pointer:5> more ) ) ) :op2 ( <pointer:6> jet-01 :destination ( <pointer:7> yuan :ARG1 ( <pointer:8> fly-01 :ARG2 ( <pointer:9> far ) ) ) ) ) ) :rel ( <pointer:10> weptions-01 :ARG0 <pointer:10> )"}
+{"sent": "", "amr": "<pointer:0> dream-01 :ARG1 ( <pointer:1> and :op1 ( <pointer:2> time :ARG1 ( <pointer:3> good-02 :degree ( <pointer:4> more ) ) ) :op2 ( <pointer:5> jet-01 :destination ( <pointer:6> yuan :ARG1 ( <pointer:7> fly-01 :ARG2 ( <pointer:8> far ) ) ) ) )"}
+{"sent": "", "amr": "<pointer:0> time :ARG1 ( <pointer:1> good-02 :degree ( <pointer:2> more ) )"}
+{"sent": "", "amr": "<pointer:0> yuan :ARG1 ( <pointer:1> fly-01 :ARG2 ( <pointer:2> far ) )"}
+{"sent": "", "amr": "<pointer:0> fly-01 :ARG2 ( <pointer:1> far )"}
+{"sent": "", "amr": "<pointer:0> gown :ARG1 ( <pointer:1> bright-02 ) :mod ( <pointer:2> luxury )"}
+{"sent": "", "amr": "<pointer:0> weave-01 :ARG1 ( <pointer:1> weptions-01 :ARG0 <pointer:1> )"}
+{"sent": "", "amr": "<pointer:0> take-01 :ARG0 ( <pointer:1> person :quant ( <pointer:2> some ) :ARG0 ( <pointer:3> design-01 ) :ARG0 ( <pointer:4> share-01 :ARG1 ( <pointer:5> message-01 :ARG1 ( <pointer:6> and :op1 ( <pointer:7> activist ) :op2 ( <pointer:8> empower-01 ) ) ) ) ) :ARG1 ( <pointer:9> advantage ) :ARG2 ( <pointer:10> Afro-Asiatic ) :ARG2 <pointer:4> :prep-along-with ( <pointer:11> display-01 :ARG1 ( <pointer:12> opulence ) :ARG1 ( <pointer:13> expect-01 ) )"}
+{"sent": "", "amr": "<pointer:0> take-01 :ARG0 ( <pointer:1> person :quant ( <pointer:2> some ) :ARG0 ( <pointer:3> design-01 ) :ARG0 ( <pointer:4> share-01 :ARG1 ( <pointer:5> message-01 :ARG1 ( <pointer:6> and :op1 ( <pointer:7> activist ) :op2 ( <pointer:8> empower-01 ) ) ) ) ) :ARG1 ( <pointer:9> advantage ) :ARG2 ( <pointer:10> Afro-Asiatic ) :ARG2 <pointer:4> :rel ( <pointer:11> fashion :prep-with ( <pointer:12> message ) )"}
+{"sent": "", "amr": "<pointer:0> take-01 :ARG0 ( <pointer:1> person :quant ( <pointer:2> some ) :ARG0 ( <pointer:3> design-01 ) :ARG0 ( <pointer:4> share-01 :ARG1 ( <pointer:5> message-01 :ARG1 ( <pointer:6> and :op1 ( <pointer:7> activist ) :op2 ( <pointer:8> empower-01 ) ) ) ) ) :ARG1 ( <pointer:9> advantage ) :ARG2 ( <pointer:10> Afro-Asiatic ) :ARG2 <pointer:4> :rel ( <pointer:11> digit )"}
+{"sent": "", "amr": "<pointer:0> take-01 :ARG0 ( <pointer:1> person :quant ( <pointer:2> some ) :ARG0 ( <pointer:3> design-01 ) :ARG0 ( <pointer:4> share-01 :ARG1 ( <pointer:5> message-01 :ARG1 ( <pointer:6> and :op1 ( <pointer:7> activist ) :op2 ( <pointer:8> empower-01 ) ) ) ) ) :ARG1 ( <pointer:9> advantage ) :ARG2 ( <pointer:10> Afro-Asiatic ) :ARG2 <pointer:4> :rel ( <pointer:11> platform )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> design-01 ) :ARG0 ( <pointer:2> share-01 :ARG1 ( <pointer:3> message-01 :ARG1 ( <pointer:4> and :op1 ( <pointer:5> activist ) :op2 ( <pointer:6> empower-01 ) ) ) ) :quant ( <pointer:7> some )"}
+{"sent": "", "amr": "<pointer:0> share-01 :ARG1 ( <pointer:1> message-01 :ARG1 ( <pointer:2> and :op1 ( <pointer:3> activist ) :op2 ( <pointer:4> empower-01 ) ) )"}
+{"sent": "", "amr": "<pointer:0> message-01 :ARG1 ( <pointer:1> and :op1 ( <pointer:2> activist ) :op2 ( <pointer:3> empower-01 ) )"}
+{"sent": "", "amr": "<pointer:0> display-01 :ARG1 ( <pointer:1> opulence ) :ARG1 ( <pointer:2> expect-01 )"}
+{"sent": "", "amr": "<pointer:0> brand :ARG1 ( <pointer:1> know-02 :ARG2 ( <pointer:2> show-04 :ARG3 ( <pointer:3> runway ) :mod ( <pointer:4> diverse ) :ARG0 ( <pointer:5> celebrate-01 :ARG1 ( <pointer:6> body :mod ( <pointer:7> all ) ) ) ) ) :ARG0 <pointer:2> :mod ( <pointer:8> swimwear :mod ( <pointer:9> architecture ) )"}
+{"sent": "", "amr": "<pointer:0> brand :ARG1 ( <pointer:1> know-02 :ARG2 ( <pointer:2> show-04 :ARG3 ( <pointer:3> runway ) :mod ( <pointer:4> diverse ) :ARG0 ( <pointer:5> celebrate-01 :ARG1 ( <pointer:6> body :mod ( <pointer:7> all ) ) ) ) ) :ARG0 <pointer:2> :mod ( <pointer:8> sport )"}
+{"sent": "", "amr": "<pointer:0> know-02 :ARG2 ( <pointer:1> show-04 :ARG3 ( <pointer:2> runway ) :mod ( <pointer:3> diverse ) :ARG0 ( <pointer:4> celebrate-01 :ARG1 ( <pointer:5> body :mod ( <pointer:6> all ) ) ) )"}
+{"sent": "", "amr": "<pointer:0> show-04 :ARG3 ( <pointer:1> runway ) :ARG0 ( <pointer:2> celebrate-01 :ARG1 ( <pointer:3> body :mod ( <pointer:4> all ) ) ) :mod ( <pointer:5> diverse )"}
+{"sent": "", "amr": "<pointer:0> celebrate-01 :ARG1 ( <pointer:1> body :mod ( <pointer:2> all ) )"}
+{"sent": "", "amr": "<pointer:0> film :ARG0 ( <pointer:1> show-01 :ARG1 ( <pointer:2> model :mod ( <pointer:3> sportswear :mod ( <pointer:4> neon ) ) :ARG1 ( <pointer:5> mask-01 ) ) ) :mod ( <pointer:6> fashion )"}
+{"sent": "", "amr": "<pointer:0> show-01 :ARG1 ( <pointer:1> model :mod ( <pointer:2> sportswear :mod ( <pointer:3> neon ) ) :ARG1 ( <pointer:4> mask-01 ) )"}
+{"sent": "", "amr": "<pointer:0> model :ARG1 ( <pointer:1> mask-01 ) :mod ( <pointer:2> sportswear :mod ( <pointer:3> neon ) )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> have-org-role-91 :ARG2 ( <pointer:2> star :mod ( <pointer:3> track ) ) ) :ARG0 ( <pointer:4> advocate-01 :ARG1 ( <pointer:5> include-01 :ARG1 ( <pointer:6> gender :mod ( <pointer:7> all ) ) :ARG2 ( <pointer:8> sport ) :ARG1 ( <pointer:9> fair-01 ) ) ) :mod ( <pointer:10> transgender )"}
+{"sent": "", "amr": "<pointer:0> have-org-role-91 :ARG2 ( <pointer:1> star :mod ( <pointer:2> track ) )"}
+{"sent": "", "amr": "<pointer:0> advocate-01 :ARG1 ( <pointer:1> include-01 :ARG1 ( <pointer:2> gender :mod ( <pointer:3> all ) ) :ARG2 ( <pointer:4> sport ) :ARG1 ( <pointer:5> fair-01 ) )"}
+{"sent": "", "amr": "<pointer:0> include-01 :ARG1 ( <pointer:1> gender :mod ( <pointer:2> all ) ) :ARG2 ( <pointer:3> sport ) :ARG1 ( <pointer:4> fair-01 )"}
+{"sent": "", "amr": "<pointer:0> label :ARG1 ( <pointer:1> sustain-01 :ARG1 ( <pointer:2> possible-01 ) ) :mod ( <pointer:3> fashion )"}
+{"sent": "", "amr": "<pointer:0> sustain-01 :ARG1 ( <pointer:1> possible-01 )"}
+{"sent": "", "amr": "<pointer:0> right-05 :ARG2 ( <pointer:1> trans )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> work-01 :manner ( <pointer:2> sex-01 ) )"}
+{"sent": "", "amr": "<pointer:0> invest-01 :ARG1 ( <pointer:1> show-04 :manner ( <pointer:2> live ) :mod ( <pointer:3> expensive ) )"}
+{"sent": "", "amr": "<pointer:0> collection :ARG0 ( <pointer:1> feature-01 :ARG1 ( <pointer:2> and :op1 ( <pointer:3> boot :mod ( <pointer:4> large :compared-to ( <pointer:5> knot ) :degree ( <pointer:6> more ) ) ) :op2 ( <pointer:7> dress :mod ( <pointer:8> shimmery ) :ARG1 ( <pointer:9> resemble-01 :ARG2 ( <pointer:10> tinfoil ) :concession ( <pointer:11> fluid ) ) ) ) )"}
+{"sent": "", "amr": "<pointer:0> feature-01 :ARG1 ( <pointer:1> and :op1 ( <pointer:2> boot :mod ( <pointer:3> large :compared-to ( <pointer:4> knot ) :degree ( <pointer:5> more ) ) ) :op2 ( <pointer:6> dress :mod ( <pointer:7> shimmery ) :ARG1 ( <pointer:8> resemble-01 :ARG2 ( <pointer:9> tinfoil ) :concession ( <pointer:10> fluid ) ) ) )"}
+{"sent": "", "amr": "<pointer:0> dress :ARG1 ( <pointer:1> resemble-01 :ARG2 ( <pointer:2> tinfoil ) :concession ( <pointer:3> fluid ) ) :mod ( <pointer:4> shimmery )"}
+{"sent": "", "amr": "<pointer:0> resemble-01 :ARG2 ( <pointer:1> tinfoil ) :concession ( <pointer:2> fluid )"}
+{"sent": "", "amr": "<pointer:0> pant :ARG1 ( <pointer:1> crop-02 )"}
+{"sent": "", "amr": "<pointer:0> color-01 :ARG2 ( <pointer:1> and :op1 ( <pointer:2> orange ) :op2 ( <pointer:3> pink ) :op3 ( <pointer:4> green-02 ) ) :mod ( <pointer:5> vivid )"}
+{"sent": "", "amr": "<pointer:0> debut-01 :ARG1 ( <pointer:1> line :mod ( <pointer:2> womenswear ) :mod ( <pointer:3> breastfeeding ) )"}
+{"sent": "", "amr": "<pointer:0> revive-01 :ARG1 ( <pointer:1> new-01 )"}
+{"sent": "", "amr": "<pointer:0> trend-01 :ARG1 ( <pointer:1> practice )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> make-01 :ARG1 ( <pointer:2> cinema ) ) :ARG0 ( <pointer:3> design-01 ) :time ( <pointer:4> line :mod ( <pointer:5> menswear ) )"}
+{"sent": "", "amr": "<pointer:0> make-01 :ARG1 ( <pointer:1> cinema )"}
+{"sent": "", "amr": "<pointer:0> say-01 :ARG1 ( <pointer:1> want-01 :ARG1 ( <pointer:2> see-01 :ARG1 ( <pointer:3> clothes :ARG1 ( <pointer:4> serious-01 ) ) :mod ( <pointer:5> last ) ) ) :medium ( <pointer:6> film :ARG1 ( <pointer:7> short-07 ) )"}
+{"sent": "", "amr": "<pointer:0> want-01 :ARG1 ( <pointer:1> see-01 :ARG1 ( <pointer:2> clothes :ARG1 ( <pointer:3> serious-01 ) ) :mod ( <pointer:4> last ) )"}
+{"sent": "", "amr": "<pointer:0> see-01 :ARG1 ( <pointer:1> clothes :ARG1 ( <pointer:2> serious-01 ) ) :mod ( <pointer:3> last )"}
+{"sent": "", "amr": "<pointer:0> clothes :ARG1 ( <pointer:1> serious-01 )"}
+{"sent": "", "amr": "<pointer:0> film :ARG1 ( <pointer:1> short-07 )"}
+{"sent": "", "amr": "<pointer:0> shirt :ARG1 ( <pointer:1> soft-02 ) :poss ( <pointer:2> he :ARG0 ( <pointer:3> induce-01 :ARG2 ( <pointer:4> comfort ) :mod ( <pointer:5> still ) ) )"}
+{"sent": "", "amr": "<pointer:0> he :ARG0 ( <pointer:1> induce-01 :ARG2 ( <pointer:2> comfort ) :mod ( <pointer:3> still ) )"}
+{"sent": "", "amr": "<pointer:0> edge :ARG1 ( <pointer:1> fun-01 ) :mod ( <pointer:2> glamorous )"}
+{"sent": "", "amr": "<pointer:0> edge :ARG1 ( <pointer:1> fun-01 ) :prep-with ( <pointer:2> and :op1 ( <pointer:3> print :mod ( <pointer:4> animal ) :mod ( <pointer:5> whimsical ) ) :op2 ( <pointer:6> floral ) )"}
+{"sent": "", "amr": "<pointer:0> induce-01 :ARG2 ( <pointer:1> comfort ) :mod ( <pointer:2> still )"}
+{"sent": "", "amr": "<pointer:0> pant :ARG1 ( <pointer:1> print :mod ( <pointer:2> tropic ) ) :consist ( <pointer:3> silk )"}
+{"sent": "", "amr": "<pointer:0> pant :ARG1 ( <pointer:1> print :mod ( <pointer:2> tropic ) ) :quant ( <pointer:3> series )"}
+{"sent": "", "amr": "<pointer:0> illustrate-01 :ARG1 ( <pointer:1> fashion )"}
+{"sent": "", "amr": "<pointer:0> state-01 :ARG0 ( <pointer:1> he :ARG0 ( <pointer:2> find-01 :ARG0 ( <pointer:3> clothes :ARG1 ( <pointer:4> new-01 ) ) :ARG1 ( <pointer:5> meaning ) :time ( <pointer:6> day :mod ( <pointer:7> early ) :time ( <pointer:8> lock-01 ) ) ) :ARG0 ( <pointer:9> feel-01 :ARG1 <pointer:12> :time ( <pointer:10> ease-02 :ARG1 ( <pointer:11> restrict-01 ) ) ) :ARG1 ( <pointer:12> inspire-01 :ARG2 <pointer:13> ) :ARG0 ( <pointer:13> create-01 :ARG3 ( <pointer:14> world :ARG1 ( <pointer:15> dress-01 :degree ( <pointer:16> more :degree ( <pointer:17> slight ) ) ) ) ) ) :ARG1 ( <pointer:18> contrast-01 :ARG1 ( <pointer:19> difficult :domain <pointer:2> ) :ARG2 <pointer:9> )"}
+{"sent": "", "amr": "<pointer:0> he :ARG0 ( <pointer:1> find-01 :ARG0 ( <pointer:2> clothes :ARG1 ( <pointer:3> new-01 ) ) :ARG1 ( <pointer:4> meaning ) :time ( <pointer:5> day :mod ( <pointer:6> early ) :time ( <pointer:7> lock-01 ) ) ) :ARG0 ( <pointer:8> feel-01 :ARG1 ( <pointer:9> inspire-01 :ARG2 ( <pointer:10> create-01 :ARG3 ( <pointer:11> world :ARG1 ( <pointer:12> dress-01 :degree ( <pointer:13> more :degree ( <pointer:14> slight ) ) ) ) ) ) :time ( <pointer:15> ease-02 :ARG1 ( <pointer:16> restrict-01 ) ) ) :ARG1 <pointer:9> :ARG0 <pointer:10>"}
+{"sent": "", "amr": "<pointer:0> contrast-01 :ARG1 ( <pointer:1> difficult :domain ( <pointer:2> find-01 :ARG0 ( <pointer:3> clothes :ARG1 ( <pointer:4> new-01 ) ) :ARG1 ( <pointer:5> meaning ) :time ( <pointer:6> day :mod ( <pointer:7> early ) :time ( <pointer:8> lock-01 ) ) ) ) :ARG2 ( <pointer:9> feel-01 :ARG1 ( <pointer:10> inspire-01 :ARG2 ( <pointer:11> create-01 :ARG3 ( <pointer:12> world :ARG1 ( <pointer:13> dress-01 :degree ( <pointer:14> more :degree ( <pointer:15> slight ) ) ) ) ) ) :time ( <pointer:16> ease-02 :ARG1 ( <pointer:17> restrict-01 ) ) )"}
+{"sent": "", "amr": "<pointer:0> find-01 :ARG0 ( <pointer:1> clothes :ARG1 ( <pointer:2> new-01 ) ) :ARG1 ( <pointer:3> meaning ) :time ( <pointer:4> day :mod ( <pointer:5> early ) :time ( <pointer:6> lock-01 ) )"}
+{"sent": "", "amr": "<pointer:0> clothes :ARG1 ( <pointer:1> new-01 )"}
+{"sent": "", "amr": "<pointer:0> feel-01 :ARG1 ( <pointer:1> inspire-01 :ARG2 ( <pointer:2> create-01 :ARG3 ( <pointer:3> world :ARG1 ( <pointer:4> dress-01 :degree ( <pointer:5> more :degree ( <pointer:6> slight ) ) ) ) ) ) :time ( <pointer:7> ease-02 :ARG1 ( <pointer:8> restrict-01 ) )"}
+{"sent": "", "amr": "<pointer:0> inspire-01 :ARG2 ( <pointer:1> create-01 :ARG3 ( <pointer:2> world :ARG1 ( <pointer:3> dress-01 :degree ( <pointer:4> more :degree ( <pointer:5> slight ) ) ) ) )"}
+{"sent": "", "amr": "<pointer:0> create-01 :ARG3 ( <pointer:1> world :ARG1 ( <pointer:2> dress-01 :degree ( <pointer:3> more :degree ( <pointer:4> slight ) ) ) )"}
+{"sent": "", "amr": "<pointer:0> world :ARG1 ( <pointer:1> dress-01 :degree ( <pointer:2> more :degree ( <pointer:3> slight ) ) )"}
+{"sent": "", "amr": "<pointer:0> ease-02 :ARG1 ( <pointer:1> restrict-01 )"}
+{"sent": "", "amr": "<pointer:0> say-01 :ARG0 ( <pointer:1> he :ARG0 ( <pointer:2> add-01 :ARG1 ( <pointer:3> contrast-01 :ARG1 ( <pointer:4> world :domain ( <pointer:5> it ) :mod ( <pointer:6> casual :mod ( <pointer:7> still ) ) ) :ARG2 <pointer:8> ) ) :ARG0 ( <pointer:8> feel-06 :ARG1 <pointer:10> :ARG1 ( <pointer:9> actual-02 ) ) :ARG0 ( <pointer:10> effort-01 :ARG1 <pointer:12> :degree ( <pointer:11> bit ) ) :ARG1 ( <pointer:12> dress-01 ) ) :ARG1 <pointer:2>"}
+{"sent": "", "amr": "<pointer:0> he :ARG0 ( <pointer:1> add-01 :ARG1 ( <pointer:2> contrast-01 :ARG1 ( <pointer:3> world :domain ( <pointer:4> it ) :mod ( <pointer:5> casual :mod ( <pointer:6> still ) ) ) :ARG2 ( <pointer:7> feel-06 :ARG1 ( <pointer:8> effort-01 :ARG1 ( <pointer:9> dress-01 ) :degree ( <pointer:10> bit ) ) :ARG1 ( <pointer:11> actual-02 ) ) ) ) :ARG0 <pointer:7> :ARG0 <pointer:8> :ARG1 <pointer:9>"}
+{"sent": "", "amr": "<pointer:0> add-01 :ARG1 ( <pointer:1> contrast-01 :ARG1 ( <pointer:2> world :domain ( <pointer:3> it ) :mod ( <pointer:4> casual :mod ( <pointer:5> still ) ) ) :ARG2 ( <pointer:6> feel-06 :ARG1 ( <pointer:7> effort-01 :ARG1 ( <pointer:8> dress-01 ) :degree ( <pointer:9> bit ) ) :ARG1 ( <pointer:10> actual-02 ) ) )"}
+{"sent": "", "amr": "<pointer:0> contrast-01 :ARG1 ( <pointer:1> world :domain ( <pointer:2> it ) :mod ( <pointer:3> casual :mod ( <pointer:4> still ) ) ) :ARG2 ( <pointer:5> feel-06 :ARG1 ( <pointer:6> effort-01 :ARG1 ( <pointer:7> dress-01 ) :degree ( <pointer:8> bit ) ) :ARG1 ( <pointer:9> actual-02 ) )"}
+{"sent": "", "amr": "<pointer:0> feel-06 :ARG1 ( <pointer:1> effort-01 :ARG1 ( <pointer:2> dress-01 ) :degree ( <pointer:3> bit ) ) :ARG1 ( <pointer:4> actual-02 )"}
+{"sent": "", "amr": "<pointer:0> effort-01 :ARG1 ( <pointer:1> dress-01 ) :degree ( <pointer:2> bit )"}
+{"sent": "", "amr": "<pointer:0> chase-01 :ARG1 ( <pointer:1> model ) :ARG2 ( <pointer:2> down :op1 ( <pointer:3> street ) )"}
+{"sent": "", "amr": "<pointer:0> heel-01 :ARG2 ( <pointer:1> stiletto )"}
+{"sent": "", "amr": "<pointer:0> show-04 :ARG1 ( <pointer:1> live ) :mod ( <pointer:2> at-all )"}
+{"sent": "", "amr": "<pointer:0> say-01 :ARG0 ( <pointer:1> person :ARG0 ( <pointer:2> organize-01 ) ) :ARG1 ( <pointer:3> concern :domain ( <pointer:4> it ) :topic ( <pointer:5> business ) ) :mod ( <pointer:6> yes )"}
+{"sent": "", "amr": "<pointer:0> say-01 :ARG0 ( <pointer:1> person :ARG0 ( <pointer:2> organize-01 ) ) :ARG1 ( <pointer:3> concern :domain ( <pointer:4> it ) :topic ( <pointer:5> business ) ) :mod ( <pointer:6> well )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> organize-01 )"}
+{"sent": "", "amr": "<pointer:0> chase-01 :ARG0 ( <pointer:1> model ) :ARG2 ( <pointer:2> down :op1 ( <pointer:3> street ) )"}
+{"sent": "", "amr": "<pointer:0> say-01 :ARG0 ( <pointer:1> person :ARG0 ( <pointer:2> organize-01 ) ) :ARG1 ( <pointer:3> concern-02 :ARG0 ( <pointer:4> it ) :ARG1 ( <pointer:5> business ) ) :mod ( <pointer:6> well )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> organize-01 )"}
+{"sent": "", "amr": "<pointer:0> concern-02 :ARG0 ( <pointer:1> it ) :ARG1 ( <pointer:2> business )"}
+{"sent": "", "amr": "<pointer:0> person :ARG1 ( <pointer:1> shortcut-01 )"}
+{"sent": "", "amr": "<pointer:0> crowd :ARG1 ( <pointer:1> actual-02 ) :mod ( <pointer:2> at-all )"}
+{"sent": "", "amr": "<pointer:0> say-01 :ARG0 ( <pointer:1> person :ARG0 ( <pointer:2> organize-01 ) ) :ARG1 ( <pointer:3> concern-02 :ARG0 ( <pointer:4> allergic :topic ( <pointer:5> survive-01 :mod ( <pointer:6> economy ) ) ) :ARG1 ( <pointer:7> it ) ) :mod ( <pointer:8> well )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> organize-01 )"}
+{"sent": "", "amr": "<pointer:0> concern-02 :ARG0 ( <pointer:1> allergic :topic ( <pointer:2> survive-01 :mod ( <pointer:3> economy ) ) ) :ARG1 ( <pointer:4> it )"}
+{"sent": "", "amr": "<pointer:0> do-02 :ARG0 ( <pointer:1> person :ARG0 ( <pointer:2> design-01 ) ) :ARG1 ( <pointer:3> business )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> design-01 )"}
+{"sent": "", "amr": "<pointer:0> infer-01 :ARG1 ( <pointer:1> concern-02 :ARG0 ( <pointer:2> this :ARG0 ( <pointer:3> concern-02 :ARG0 ( <pointer:4> it ) :ARG1 ( <pointer:5> livelihood :poss ( <pointer:6> person ) ) ) ) :ARG1 ( <pointer:7> job ) )"}
+{"sent": "", "amr": "<pointer:0> concern-02 :ARG0 ( <pointer:1> this :ARG0 ( <pointer:2> concern-02 :ARG0 ( <pointer:3> it ) :ARG1 ( <pointer:4> livelihood :poss ( <pointer:5> person ) ) ) ) :ARG1 ( <pointer:6> job )"}
+{"sent": "", "amr": "<pointer:0> this :ARG0 ( <pointer:1> concern-02 :ARG0 ( <pointer:2> it ) :ARG1 ( <pointer:3> livelihood :poss ( <pointer:4> person ) ) )"}
+{"sent": "", "amr": "<pointer:0> concern-02 :ARG0 ( <pointer:1> it ) :ARG1 ( <pointer:2> livelihood :poss ( <pointer:3> person ) )"}
+{"sent": "", "amr": "<pointer:0> concern-02 :ARG1 ( <pointer:1> move-01 :ARG2 ( <pointer:2> forward ) :prep-with ( <pointer:3> safe-01 ) :ARG1 ( <pointer:4> contrast-01 :ARG2 ( <pointer:5> cautious ) ) )"}
+{"sent": "", "amr": "<pointer:0> move-01 :ARG2 ( <pointer:1> forward ) :ARG1 ( <pointer:2> contrast-01 :ARG2 ( <pointer:3> cautious ) ) :prep-with ( <pointer:4> safe-01 )"}
+{"sent": "", "amr": "<pointer:0> contrast-01 :ARG2 ( <pointer:1> cautious )"}
+{"sent": "", "amr": "<pointer:0> event :ARG1 ( <pointer:1> begin-01 :time ( <pointer:2> date-entity :dayperiod ( <pointer:3> evening ) :weekday ( <pointer:4> sunday ) ) ) :ARG1 ( <pointer:5> last-01 :ARG2 ( <pointer:6> through :op1 ( <pointer:7> date-entity :weekday ( <pointer:8> wednesday ) ) ) ) :mod ( <pointer:9> this )"}
+{"sent": "", "amr": "<pointer:0> last-01 :ARG2 ( <pointer:1> through :op1 ( <pointer:2> date-entity :weekday ( <pointer:3> wednesday ) ) )"}
+{"sent": "", "amr": "<pointer:0> consider-02 :ARG1 ( <pointer:1> priority :domain ( <pointer:2> safe-01 ) :mod ( <pointer:3> that ) :ARG1 ( <pointer:4> key-02 ) )"}
+{"sent": "", "amr": "<pointer:0> priority :ARG1 ( <pointer:1> key-02 ) :domain ( <pointer:2> safe-01 )"}
+{"sent": "", "amr": "<pointer:0> priority :ARG1 ( <pointer:1> key-02 ) :mod ( <pointer:2> that )"}
+{"sent": "", "amr": "<pointer:0> decide-01 :ARG0 ( <pointer:1> label :ARG0 ( <pointer:2> show-up-02 :ARG1 <pointer:4> :manner ( <pointer:3> person ) ) :poss ( <pointer:4> collection :time ( <pointer:5> date-entity :season ( <pointer:6> spring ) ) ) ) :ARG1 <pointer:2>"}
+{"sent": "", "amr": "<pointer:0> label :ARG0 ( <pointer:1> show-up-02 :ARG1 ( <pointer:2> collection :time ( <pointer:3> date-entity :season ( <pointer:4> spring ) ) ) :manner ( <pointer:5> person ) ) :poss <pointer:2>"}
+{"sent": "", "amr": "<pointer:0> show-up-02 :ARG1 ( <pointer:1> collection :time ( <pointer:2> date-entity :season ( <pointer:3> spring ) ) ) :manner ( <pointer:4> person )"}
+{"sent": "", "amr": "<pointer:0> distance-01 :ARG2 ( <pointer:1> mask )"}
+{"sent": "", "amr": "<pointer:0> watch-01 :ARG0 ( <pointer:1> person ) :ARG1 ( <pointer:2> show-04 )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> buy-01 )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> consume-01 )"}
+{"sent": "", "amr": "<pointer:0> platform :ARG1 ( <pointer:1> new-01 ) :beneficiary ( <pointer:2> offer-01 :ARG1 ( <pointer:3> initiative :mod ( <pointer:4> digital ) :ARG1 ( <pointer:5> call-01 :mod ( <pointer:6> so ) ) ) )"}
+{"sent": "", "amr": "<pointer:0> platform :ARG1 ( <pointer:1> new-01 ) :location ( <pointer:2> possible-01 )"}
+{"sent": "", "amr": "<pointer:0> offer-01 :ARG1 ( <pointer:1> initiative :mod ( <pointer:2> digital ) :ARG1 ( <pointer:3> call-01 :mod ( <pointer:4> so ) ) )"}
+{"sent": "", "amr": "<pointer:0> initiative :ARG1 ( <pointer:1> call-01 :mod ( <pointer:2> so ) ) :mod ( <pointer:3> digital )"}
+{"sent": "", "amr": "<pointer:0> gather-03 :ARG0 ( <pointer:1> industry ) :time ( <pointer:2> once )"}
+{"sent": "", "amr": "<pointer:0> gather-03 :ARG0 ( <pointer:1> industry ) :time ( <pointer:2> week :mod ( <pointer:3> lifetime ) )"}
+{"sent": "", "amr": "<pointer:0> present-01 :ARG1 ( <pointer:1> contrast-01 :ARG2 ( <pointer:2> cancel-01 :time ( <pointer:3> year :mod ( <pointer:4> this ) ) ) ) :manner ( <pointer:5> fanfare )"}
+{"sent": "", "amr": "<pointer:0> present-01 :ARG1 ( <pointer:1> contrast-01 :ARG2 ( <pointer:2> cancel-01 :time ( <pointer:3> year :mod ( <pointer:4> this ) ) ) ) :mod ( <pointer:5> usual )"}
+{"sent": "", "amr": "<pointer:0> contrast-01 :ARG2 ( <pointer:1> cancel-01 :time ( <pointer:2> year :mod ( <pointer:3> this ) ) )"}
+{"sent": "", "amr": "<pointer:0> announce-01 :ARG1 ( <pointer:1> person :ARG0 ( <pointer:2> win-01 ) ) :medium ( <pointer:3> video )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> win-01 )"}
+{"sent": "", "amr": "<pointer:0> have-concession-91 :ARG2 ( <pointer:1> opt-01 :ARG0 ( <pointer:2> person :mod ( <pointer:3> top ) :quant ( <pointer:4> number ) :ARG0 ( <pointer:5> design-01 ) :ARG0 <pointer:6> ) :ARG1 ( <pointer:6> differ-01 :degree ( <pointer:7> entire ) ) ) :rel ( <pointer:8> out )"}
+{"sent": "", "amr": "<pointer:0> opt-01 :ARG0 ( <pointer:1> person :mod ( <pointer:2> top ) :quant ( <pointer:3> number ) :ARG0 ( <pointer:4> design-01 ) :ARG0 ( <pointer:5> differ-01 :degree ( <pointer:6> entire ) :ARG1-of <pointer:0> ) )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> design-01 ) :ARG0 ( <pointer:2> differ-01 :degree ( <pointer:3> entire ) ) :mod ( <pointer:4> top )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> design-01 ) :ARG0 ( <pointer:2> differ-01 :degree ( <pointer:3> entire ) ) :quant ( <pointer:4> number )"}
+{"sent": "", "amr": "<pointer:0> thing :ARG1 ( <pointer:1> do-02 :ARG0 ( <pointer:2> we :ARG0 ( <pointer:3> prologue-01 ) ) )"}
+{"sent": "", "amr": "<pointer:0> do-02 :ARG0 ( <pointer:1> we :ARG0 ( <pointer:2> prologue-01 ) )"}
+{"sent": "", "amr": "<pointer:0> we :ARG0 ( <pointer:1> prologue-01 )"}
+{"sent": "", "amr": "<pointer:0> start-01 :ARG0 ( <pointer:1> amr-unknown :time ( <pointer:2> prologue-01 ) )"}
+{"sent": "", "amr": "<pointer:0> design-01 :ARG1 ( <pointer:1> collection )"}
+{"sent": "", "amr": "<pointer:0> need-01 :ARG0 ( <pointer:1> team :poss ( <pointer:2> i ) :ARG0 ( <pointer:3> look-01 :ARG1 ( <pointer:4> fabric ) :ARG1-of <pointer:0> ) )"}
+{"sent": "", "amr": "<pointer:0> team :ARG0 ( <pointer:1> look-01 :ARG1 ( <pointer:2> fabric ) ) :poss ( <pointer:3> i )"}
+{"sent": "", "amr": "<pointer:0> look-01 :ARG1 ( <pointer:1> fabric )"}
+{"sent": "", "amr": "<pointer:0> travel-01 :ARG0 ( <pointer:1> we ) :ARG1 ( <pointer:2> there )"}
+{"sent": "", "amr": "<pointer:0> go-on-15 :ARG1 ( <pointer:1> thing :quant ( <pointer:2> lot ) )"}
+{"sent": "", "amr": "<pointer:0> do-02 :ARG0 ( <pointer:1> we :ARG0 ( <pointer:2> discover-01 :op1 ( <pointer:3> or :op2 ( <pointer:4> goal :mod ( <pointer:5> end ) :purpose ( <pointer:6> work-01 ) ) ) ) ) :ARG1 ( <pointer:7> nothing ) :ARG1 ( <pointer:8> real-04 ) :time ( <pointer:9> until :op1 <pointer:2> )"}
+{"sent": "", "amr": "<pointer:0> we :ARG0 ( <pointer:1> discover-01 :op1 ( <pointer:2> or :op2 ( <pointer:3> goal :mod ( <pointer:4> end ) :purpose ( <pointer:5> work-01 ) ) ) )"}
+{"sent": "", "amr": "<pointer:0> decide-01 :ARG0 ( <pointer:1> person :quant ( <pointer:2> many ) :ARG0 ( <pointer:3> show-01 :time ( <pointer:4> late :degree ( <pointer:5> more ) :op1 ( <pointer:6> year ) ) ) ) :ARG1 ( <pointer:7> or :op1 <pointer:3> :op2 ( <pointer:8> format :ARG1 ( <pointer:9> differ-02 ) ) )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> show-01 :time ( <pointer:2> late :degree ( <pointer:3> more ) :op1 ( <pointer:4> year ) ) ) :quant ( <pointer:5> many )"}
+{"sent": "", "amr": "<pointer:0> format :ARG1 ( <pointer:1> differ-02 )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> design-01 ) :ARG0 ( <pointer:2> see-01 ) :ARG0 ( <pointer:3> think-01 :time ( <pointer:4> stretch :location ( <pointer:5> home ) :mod ( <pointer:6> that ) :mod ( <pointer:7> time ) :ARG1 ( <pointer:8> long-03 ) ) ) :poss ( <pointer:9> collection :time ( <pointer:10> date-entity :season ( <pointer:11> spring ) ) :ARG1 ( <pointer:12> new-01 ) )"}
+{"sent": "", "amr": "<pointer:0> collection :ARG1 ( <pointer:1> new-01 ) :time ( <pointer:2> date-entity :season ( <pointer:3> spring ) )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> paint-02 ) :mod ( <pointer:2> female )"}
+{"sent": "", "amr": "<pointer:0> influence-01 :ARG1 ( <pointer:1> think-01 :time ( <pointer:2> stretch :location ( <pointer:3> home ) :mod ( <pointer:4> that ) :mod ( <pointer:5> time ) :ARG1 ( <pointer:6> long-03 ) ) ) :ARG2 ( <pointer:7> include-01 :ARG1 ( <pointer:8> pie :ARG1 ( <pointer:9> bake-01 :location ( <pointer:10> home ) ) :ARG1 ( <pointer:11> beautiful-02 ) ) ) :mod ( <pointer:12> variety )"}
+{"sent": "", "amr": "<pointer:0> stretch :ARG1 ( <pointer:1> long-03 ) :location ( <pointer:2> home )"}
+{"sent": "", "amr": "<pointer:0> stretch :ARG1 ( <pointer:1> long-03 ) :mod ( <pointer:2> that )"}
+{"sent": "", "amr": "<pointer:0> stretch :ARG1 ( <pointer:1> long-03 ) :mod ( <pointer:2> time )"}
+{"sent": "", "amr": "<pointer:0> include-01 :ARG1 ( <pointer:1> pie :ARG1 ( <pointer:2> bake-01 :location ( <pointer:3> home ) ) :ARG1 ( <pointer:4> beautiful-02 ) )"}
+{"sent": "", "amr": "<pointer:0> pie :ARG1 ( <pointer:1> bake-01 :location ( <pointer:2> home ) ) :ARG1 ( <pointer:3> beautiful-02 )"}
+{"sent": "", "amr": "<pointer:0> imagine-01 :ARG1 ( <pointer:1> put-01 :ARG1 ( <pointer:2> collection ) :ARG2 ( <pointer:3> together ) ) :ARG1 ( <pointer:4> cause-01 :ARG0 ( <pointer:5> and :op1 ( <pointer:6> event :location ( <pointer:7> world ) :ARG0 <pointer:8> ) :op2 ( <pointer:8> affect-01 :ARG1 ( <pointer:9> industry ) :ARG3 ( <pointer:10> ripple ) ) ) ) :mod ( <pointer:11> even )"}
+{"sent": "", "amr": "<pointer:0> imagine-01 :ARG1 ( <pointer:1> put-01 :ARG1 ( <pointer:2> collection ) :ARG2 ( <pointer:3> together ) ) :ARG1 ( <pointer:4> cause-01 :ARG0 ( <pointer:5> and :op1 ( <pointer:6> event :location ( <pointer:7> world ) :ARG0 <pointer:8> ) :op2 ( <pointer:8> affect-01 :ARG1 ( <pointer:9> industry ) :ARG3 ( <pointer:10> ripple ) ) ) ) :time ( <pointer:11> at-first )"}
+{"sent": "", "amr": "<pointer:0> put-01 :ARG1 ( <pointer:1> collection ) :ARG2 ( <pointer:2> together )"}
+{"sent": "", "amr": "<pointer:0> cause-01 :ARG0 ( <pointer:1> and :op1 ( <pointer:2> event :location ( <pointer:3> world ) :ARG0 <pointer:4> ) :op2 ( <pointer:4> affect-01 :ARG1 ( <pointer:5> industry ) :ARG3 ( <pointer:6> ripple ) ) )"}
+{"sent": "", "amr": "<pointer:0> event :ARG0 ( <pointer:1> affect-01 :ARG1 ( <pointer:2> industry ) :ARG3 ( <pointer:3> ripple ) ) :location ( <pointer:4> world )"}
+{"sent": "", "amr": "<pointer:0> affect-01 :ARG1 ( <pointer:1> industry ) :ARG3 ( <pointer:2> ripple )"}
+{"sent": "", "amr": "<pointer:0> see-01 :ARG1 ( <pointer:1> anything :ARG1 ( <pointer:2> resemble-01 :ARG2 ( <pointer:3> it ) ) ) :time ( <pointer:4> ever )"}
+{"sent": "", "amr": "<pointer:0> anything :ARG1 ( <pointer:1> resemble-01 :ARG2 ( <pointer:2> it ) )"}
+{"sent": "", "amr": "<pointer:0> resemble-01 :ARG2 ( <pointer:1> it )"}
+{"sent": "", "amr": "<pointer:0> contrast-01 :ARG2 ( <pointer:1> seismic :degree ( <pointer:2> really :degree ( <pointer:3> really ) ) :domain ( <pointer:4> this ) )"}
+{"sent": "", "amr": "<pointer:0> want-01 :ARG0 ( <pointer:1> amr-unknown ) :ARG1 ( <pointer:2> merchandise :ARG1 ( <pointer:3> new-01 ) )"}
+{"sent": "", "amr": "<pointer:0> merchandise :ARG1 ( <pointer:1> new-01 )"}
+{"sent": "", "amr": "<pointer:0> see-01 :ARG0 ( <pointer:1> we :ARG0 ( <pointer:2> see-01 :time ( <pointer:3> ever ) :ARG1 ( <pointer:4> resemble-01 ) ) ) :ARG1 ( <pointer:5> order-01 :ARG1 <pointer:2> ) :ARG2 <pointer:4> :op1 <pointer:2>"}
+{"sent": "", "amr": "<pointer:0> we :ARG0 ( <pointer:1> see-01 :time ( <pointer:2> ever ) :ARG1 ( <pointer:3> resemble-01 ) )"}
+{"sent": "", "amr": "<pointer:0> order-01 :ARG1 ( <pointer:1> see-01 :time ( <pointer:2> ever ) :ARG1 ( <pointer:3> resemble-01 ) )"}
+{"sent": "", "amr": "<pointer:0> see-01 :ARG1 ( <pointer:1> resemble-01 ) :time ( <pointer:2> ever )"}
+{"sent": "", "amr": "<pointer:0> change-01 :ARG1 ( <pointer:1> store )"}
+{"sent": "", "amr": "<pointer:0> change-01 :ARG1 ( <pointer:1> person :ARG0 ( <pointer:2> consume-01 ) )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> consume-01 )"}
+{"sent": "", "amr": "<pointer:0> shut-down-05 :ARG1 ( <pointer:1> world ) :mod ( <pointer:2> essential )"}
+{"sent": "", "amr": "<pointer:0> resemble-01 :ARG2 ( <pointer:1> everyone )"}
+{"sent": "", "amr": "<pointer:0> have-03 :ARG0 ( <pointer:1> company :poss ( <pointer:2> she ) :ARG0 ( <pointer:3> fill-06 :ARG1 ( <pointer:4> order :ARG1 <pointer:6> ) ) :ARG0 ( <pointer:5> struggle-02 :ARG1 <pointer:6> ) :ARG0 ( <pointer:6> complete-01 :mod ( <pointer:7> even ) ) ) :ARG1 <pointer:3>"}
+{"sent": "", "amr": "<pointer:0> company :ARG0 ( <pointer:1> fill-06 :ARG1 ( <pointer:2> order :ARG1 ( <pointer:3> complete-01 :mod ( <pointer:4> even ) ) ) ) :ARG0 ( <pointer:5> struggle-02 :ARG1 <pointer:3> ) :ARG0 <pointer:3> :poss ( <pointer:6> she )"}
+{"sent": "", "amr": "<pointer:0> fill-06 :ARG1 ( <pointer:1> order :ARG1 ( <pointer:2> complete-01 :mod ( <pointer:3> even ) ) )"}
+{"sent": "", "amr": "<pointer:0> order :ARG1 ( <pointer:1> complete-01 :mod ( <pointer:2> even ) )"}
+{"sent": "", "amr": "<pointer:0> struggle-02 :ARG1 ( <pointer:1> complete-01 :mod ( <pointer:2> even ) )"}
+{"sent": "", "amr": "<pointer:0> refuse-01 :ARG1 ( <pointer:1> order :ARG1 ( <pointer:2> include-91 :ARG2 ( <pointer:3> order ) :ARG3 ( <pointer:4> most ) ) :ARG1 ( <pointer:5> cancel-01 ) )"}
+{"sent": "", "amr": "<pointer:0> order :ARG1 ( <pointer:1> include-91 :ARG2 ( <pointer:2> order ) :ARG3 ( <pointer:3> most ) ) :ARG1 ( <pointer:4> cancel-01 )"}
+{"sent": "", "amr": "<pointer:0> include-91 :ARG2 ( <pointer:1> order ) :ARG3 ( <pointer:2> most )"}
+{"sent": "", "amr": "<pointer:0> ask-02 :ARG0 ( <pointer:1> person :ARG0 ( <pointer:2> buy-01 ) :ARG2 ( <pointer:3> discount-01 :mod ( <pointer:4> huge ) :ARG1-of <pointer:0> ) )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> buy-01 ) :ARG2 ( <pointer:2> discount-01 :mod ( <pointer:3> huge ) )"}
+{"sent": "", "amr": "<pointer:0> say-01 :ARG0 ( <pointer:1> she :ARG0 ( <pointer:2> think-01 :ARG1 ( <pointer:3> possible-01 :ARG1 ( <pointer:4> continue-01 :ARG0 ( <pointer:5> you ) :manner ( <pointer:6> amr-unknown ) ) ) :mod ( <pointer:7> well ) ) ) :ARG1 ( <pointer:8> and :op2 <pointer:2> )"}
+{"sent": "", "amr": "<pointer:0> she :ARG0 ( <pointer:1> think-01 :ARG1 ( <pointer:2> possible-01 :ARG1 ( <pointer:3> continue-01 :ARG0 ( <pointer:4> you ) :manner ( <pointer:5> amr-unknown ) ) ) :mod ( <pointer:6> well ) )"}
+{"sent": "", "amr": "<pointer:0> think-01 :ARG1 ( <pointer:1> possible-01 :ARG1 ( <pointer:2> continue-01 :ARG0 ( <pointer:3> you ) :manner ( <pointer:4> amr-unknown ) ) ) :mod ( <pointer:5> well )"}
+{"sent": "", "amr": "<pointer:0> possible-01 :ARG1 ( <pointer:1> continue-01 :ARG0 ( <pointer:2> you ) :manner ( <pointer:3> amr-unknown ) )"}
+{"sent": "", "amr": "<pointer:0> continue-01 :ARG0 ( <pointer:1> you ) :manner ( <pointer:2> amr-unknown )"}
+{"sent": "", "amr": "<pointer:0> bring-01 :ARG0 ( <pointer:1> she :poss ( <pointer:2> team ) :ARG0 ( <pointer:3> say-01 :ARG1 ( <pointer:4> start-01 :ARG0 ( <pointer:5> she :ARG0 ( <pointer:6> think-01 :ARG1 ( <pointer:7> fabric ) ) :ARG0 ( <pointer:8> watch-01 :ARG1 ( <pointer:9> movie :quant ( <pointer:10> lot ) ) ) ) :ARG1 ( <pointer:11> and :op1 <pointer:6> :op2 <pointer:8> ) :time ( <pointer:12> then ) ) ) ) :ARG1 <pointer:2> :direction ( <pointer:13> back )"}
+{"sent": "", "amr": "<pointer:0> she :ARG0 ( <pointer:1> say-01 :ARG1 ( <pointer:2> start-01 :ARG0 ( <pointer:3> she :ARG0 ( <pointer:4> think-01 :ARG1 ( <pointer:5> fabric ) ) :ARG0 ( <pointer:6> watch-01 :ARG1 ( <pointer:7> movie :quant ( <pointer:8> lot ) ) ) ) :ARG1 ( <pointer:9> and :op1 <pointer:4> :op2 <pointer:6> ) :time ( <pointer:10> then ) ) ) :poss ( <pointer:11> team )"}
+{"sent": "", "amr": "<pointer:0> say-01 :ARG1 ( <pointer:1> start-01 :ARG0 ( <pointer:2> she :ARG0 ( <pointer:3> think-01 :ARG1 ( <pointer:4> fabric ) ) :ARG0 ( <pointer:5> watch-01 :ARG1 ( <pointer:6> movie :quant ( <pointer:7> lot ) ) ) ) :ARG1 ( <pointer:8> and :op1 <pointer:3> :op2 <pointer:5> ) :time ( <pointer:9> then ) )"}
+{"sent": "", "amr": "<pointer:0> start-01 :ARG0 ( <pointer:1> she :ARG0 ( <pointer:2> think-01 :ARG1 ( <pointer:3> fabric ) ) :ARG0 ( <pointer:4> watch-01 :ARG1 ( <pointer:5> movie :quant ( <pointer:6> lot ) ) ) ) :ARG1 ( <pointer:7> and :op1 <pointer:2> :op2 <pointer:4> ) :time ( <pointer:8> then )"}
+{"sent": "", "amr": "<pointer:0> she :ARG0 ( <pointer:1> think-01 :ARG1 ( <pointer:2> fabric ) ) :ARG0 ( <pointer:3> watch-01 :ARG1 ( <pointer:4> movie :quant ( <pointer:5> lot ) ) )"}
+{"sent": "", "amr": "<pointer:0> think-01 :ARG1 ( <pointer:1> fabric )"}
+{"sent": "", "amr": "<pointer:0> watch-01 :ARG1 ( <pointer:1> movie :quant ( <pointer:2> lot ) )"}
+{"sent": "", "amr": "<pointer:0> cause-01 :ARG1 ( <pointer:1> do-02 :ARG0 ( <pointer:2> i :part <pointer:6> ) :ARG1 ( <pointer:3> it ) :degree ( <pointer:4> kind-of ) :duration ( <pointer:5> while ) :location ( <pointer:6> head ) )"}
+{"sent": "", "amr": "<pointer:0> do-02 :ARG0 ( <pointer:1> i :part ( <pointer:2> head ) ) :ARG1 ( <pointer:3> it ) :degree ( <pointer:4> kind-of )"}
+{"sent": "", "amr": "<pointer:0> do-02 :ARG0 ( <pointer:1> i :part ( <pointer:2> head ) ) :ARG1 ( <pointer:3> it ) :duration ( <pointer:4> while )"}
+{"sent": "", "amr": "<pointer:0> do-02 :ARG0 ( <pointer:1> i :part ( <pointer:2> head ) ) :ARG1 ( <pointer:3> it ) :location <pointer:2>"}
+{"sent": "", "amr": "<pointer:0> sneak-01 :ARG0 ( <pointer:1> i :ARG0 ( <pointer:2> start-01 :ARG1 <pointer:3> ) :ARG0 ( <pointer:3> work-01 :ARG1 ( <pointer:4> it ) ) ) :ARG1 ( <pointer:5> office )"}
+{"sent": "", "amr": "<pointer:0> i :ARG0 ( <pointer:1> start-01 :ARG1 ( <pointer:2> work-01 :ARG1 ( <pointer:3> it ) :ARG0-of <pointer:0> ) )"}
+{"sent": "", "amr": "<pointer:0> start-01 :ARG1 ( <pointer:1> work-01 :ARG1 ( <pointer:2> it ) )"}
+{"sent": "", "amr": "<pointer:0> work-01 :ARG1 ( <pointer:1> it )"}
+{"sent": "", "amr": "<pointer:0> put-01 :ARG0 ( <pointer:1> i ) :ARG1 ( <pointer:2> story ) :ARG2 ( <pointer:3> together )"}
+{"sent": "", "amr": "<pointer:0> influence-01 :ARG1 ( <pointer:1> go-on-15 :duration ( <pointer:2> be-located-at-91 :ARG1 ( <pointer:3> i ) :ARG2 ( <pointer:4> home ) :ARG1 ( <pointer:5> long-03 :degree ( <pointer:6> so ) ) ) ) :mod ( <pointer:7> all )"}
+{"sent": "", "amr": "<pointer:0> be-located-at-91 :ARG1 ( <pointer:1> i ) :ARG2 ( <pointer:2> home ) :ARG1 ( <pointer:3> long-03 :degree ( <pointer:4> so ) )"}
+{"sent": "", "amr": "<pointer:0> event :ARG1 ( <pointer:1> normal-02 ) :time ( <pointer:2> amr-unknown )"}
+{"sent": "", "amr": "<pointer:0> chairman :ARG1 ( <pointer:1> new-01 )"}
+{"sent": "", "amr": "<pointer:0> thing :ARG1 ( <pointer:1> federal )"}
+{"sent": "", "amr": "<pointer:0> present-01 :ARG0 ( <pointer:1> person :op2 ( <pointer:2> win-01 :ARG2 ( <pointer:3> do-02 :ARG1 ( <pointer:4> show-04 ) ) ) :ARG0 ( <pointer:5> design-01 ) :poss ( <pointer:6> collection :time ( <pointer:7> date-entity :season ( <pointer:8> fall ) ) ) ) :ARG1 <pointer:6>"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> design-01 ) :op2 ( <pointer:2> win-01 :ARG2 ( <pointer:3> do-02 :ARG1 ( <pointer:4> show-04 ) ) ) :poss ( <pointer:5> collection :time ( <pointer:6> date-entity :season ( <pointer:7> fall ) ) )"}
+{"sent": "", "amr": "<pointer:0> win-01 :ARG2 ( <pointer:1> do-02 :ARG1 ( <pointer:2> show-04 ) )"}
+{"sent": "", "amr": "<pointer:0> do-02 :ARG1 ( <pointer:1> show-04 )"}
+{"sent": "", "amr": "<pointer:0> present-01 :ARG0 ( <pointer:1> he :ARG0 ( <pointer:2> collect-01 ) :poss ( <pointer:3> slot ) ) :ARG1 ( <pointer:4> image :topic <pointer:2> ) :location <pointer:3>"}
+{"sent": "", "amr": "<pointer:0> present-01 :ARG0 ( <pointer:1> he :ARG0 ( <pointer:2> collect-01 ) :poss ( <pointer:3> slot ) ) :ARG1 ( <pointer:4> image :topic <pointer:2> ) :time ( <pointer:5> season :mod ( <pointer:6> this ) )"}
+{"sent": "", "amr": "<pointer:0> present-01 :ARG0 ( <pointer:1> he :ARG0 ( <pointer:2> collect-01 ) :poss ( <pointer:3> slot ) ) :ARG1 ( <pointer:4> image :topic <pointer:2> ) :time ( <pointer:5> date-entity :weekday ( <pointer:6> wednesday ) )"}
+{"sent": "", "amr": "<pointer:0> he :ARG0 ( <pointer:1> collect-01 ) :poss ( <pointer:2> slot )"}
+{"sent": "", "amr": "<pointer:0> pay-01 :ARG1 ( <pointer:1> simple-02 ) :ARG1 ( <pointer:2> possible-01 )"}
+{"sent": "", "amr": "<pointer:0> have-rel-role-91 :ARG1 ( <pointer:1> person :quant ( <pointer:2> many :compared-to ( <pointer:3> possible-01 ) :degree ( <pointer:4> most ) :compared-to-of <pointer:0> ) :ARG1 ( <pointer:5> employ-01 ) )"}
+{"sent": "", "amr": "<pointer:0> person :ARG1 ( <pointer:1> employ-01 ) :quant ( <pointer:2> many :compared-to ( <pointer:3> possible-01 ) :degree ( <pointer:4> most ) )"}
+{"sent": "", "amr": "<pointer:0> prefer-01 :ARG0 ( <pointer:1> i :ARG0 ( <pointer:2> pay-01 :ARG2 ( <pointer:3> person :poss ( <pointer:4> we ) :ARG2 ( <pointer:5> staff-01 ) ) ) ) :ARG1 <pointer:2>"}
+{"sent": "", "amr": "<pointer:0> i :ARG0 ( <pointer:1> pay-01 :ARG2 ( <pointer:2> person :poss ( <pointer:3> we ) :ARG2 ( <pointer:4> staff-01 ) ) )"}
+{"sent": "", "amr": "<pointer:0> pay-01 :ARG2 ( <pointer:1> person :poss ( <pointer:2> we ) :ARG2 ( <pointer:3> staff-01 ) )"}
+{"sent": "", "amr": "<pointer:0> person :ARG2 ( <pointer:1> staff-01 ) :poss ( <pointer:2> we )"}
+{"sent": "", "amr": "<pointer:0> question-01 :ARG1 ( <pointer:1> open-05 )"}
+{"sent": "", "amr": "<pointer:0> convince-01 :ARG2 ( <pointer:1> return-01 :ARG1 ( <pointer:2> show-04 :ARG3 ( <pointer:3> runway ) :manner ( <pointer:4> live ) ) )"}
+{"sent": "", "amr": "<pointer:0> return-01 :ARG1 ( <pointer:1> show-04 :ARG3 ( <pointer:2> runway ) :manner ( <pointer:3> live ) )"}
+{"sent": "", "amr": "<pointer:0> show-04 :ARG3 ( <pointer:1> runway ) :manner ( <pointer:2> live )"}
+{"sent": "", "amr": "<pointer:0> say-01 :ARG0 ( <pointer:1> he ) :ARG1 ( <pointer:2> possible-01 :ARG1 ( <pointer:3> agree-01 :ARG0 ( <pointer:4> we :mod ( <pointer:5> all ) ) :ARG1 ( <pointer:6> possible-01 :ARG1 ( <pointer:7> replace-01 :ARG0 ( <pointer:8> nothing ) :ARG1 ( <pointer:9> show-04 :manner ( <pointer:10> live ) ) ) ) ) )"}
+{"sent": "", "amr": "<pointer:0> possible-01 :ARG1 ( <pointer:1> agree-01 :ARG0 ( <pointer:2> we :mod ( <pointer:3> all ) ) :ARG1 ( <pointer:4> possible-01 :ARG1 ( <pointer:5> replace-01 :ARG0 ( <pointer:6> nothing ) :ARG1 ( <pointer:7> show-04 :manner ( <pointer:8> live ) ) ) ) )"}
+{"sent": "", "amr": "<pointer:0> agree-01 :ARG0 ( <pointer:1> we :mod ( <pointer:2> all ) ) :ARG1 ( <pointer:3> possible-01 :ARG1 ( <pointer:4> replace-01 :ARG0 ( <pointer:5> nothing ) :ARG1 ( <pointer:6> show-04 :manner ( <pointer:7> live ) ) ) )"}
+{"sent": "", "amr": "<pointer:0> possible-01 :ARG1 ( <pointer:1> replace-01 :ARG0 ( <pointer:2> nothing ) :ARG1 ( <pointer:3> show-04 :manner ( <pointer:4> live ) ) )"}
+{"sent": "", "amr": "<pointer:0> replace-01 :ARG0 ( <pointer:1> nothing ) :ARG1 ( <pointer:2> show-04 :manner ( <pointer:3> live ) )"}
+{"sent": "", "amr": "<pointer:0> ask-01 :ARG1 ( <pointer:1> interest-01 :ARG2 ( <pointer:2> recover-01 :ARG1 ( <pointer:3> industry :mod ( <pointer:4> fashion ) ) :time ( <pointer:5> ultimate ) ) )"}
+{"sent": "", "amr": "<pointer:0> interest-01 :ARG2 ( <pointer:1> recover-01 :ARG1 ( <pointer:2> industry :mod ( <pointer:3> fashion ) ) :time ( <pointer:4> ultimate ) )"}
+{"sent": "", "amr": "<pointer:0> recover-01 :ARG1 ( <pointer:1> industry :mod ( <pointer:2> fashion ) ) :time ( <pointer:3> ultimate )"}
+{"sent": "", "amr": "<pointer:0> say-01 :ARG0 ( <pointer:1> he ) :ARG1 ( <pointer:2> pendulum )"}
+{"sent": "", "amr": "<pointer:0> ready-02 :ARG1 ( <pointer:1> we :ARG1 ( <pointer:2> get-05 :ARG2 <pointer:3> ) :ARG1 ( <pointer:3> out-06 :ARG2 ( <pointer:4> and :op1 ( <pointer:5> sweatpants ) :op2 ( <pointer:6> t-shirt ) ) ) ) :ARG2 <pointer:2> :time ( <pointer:7> point :mod ( <pointer:8> some ) )"}
+{"sent": "", "amr": "<pointer:0> we :ARG1 ( <pointer:1> get-05 :ARG2 ( <pointer:2> out-06 :ARG2 ( <pointer:3> and :op1 ( <pointer:4> sweatpants ) :op2 ( <pointer:5> t-shirt ) ) ) ) :ARG1 <pointer:2>"}
+{"sent": "", "amr": "<pointer:0> get-05 :ARG2 ( <pointer:1> out-06 :ARG2 ( <pointer:2> and :op1 ( <pointer:3> sweatpants ) :op2 ( <pointer:4> t-shirt ) ) )"}
+{"sent": "", "amr": "<pointer:0> out-06 :ARG2 ( <pointer:1> and :op1 ( <pointer:2> sweatpants ) :op2 ( <pointer:3> t-shirt ) )"}
+{"sent": "", "amr": "<pointer:0> hopeful-03 :ARG1 ( <pointer:1> lead-03 :ARG0 ( <pointer:2> crisis :time ( <pointer:3> current ) ) :ARG2 ( <pointer:4> reset-01 :ARG1 ( <pointer:5> industry :ARG0 ( <pointer:6> have-03 :ARG1 ( <pointer:7> excess :quant ( <pointer:8> plenty ) ) ) ) ) )"}
+{"sent": "", "amr": "<pointer:0> lead-03 :ARG0 ( <pointer:1> crisis :time ( <pointer:2> current ) ) :ARG2 ( <pointer:3> reset-01 :ARG1 ( <pointer:4> industry :ARG0 ( <pointer:5> have-03 :ARG1 ( <pointer:6> excess :quant ( <pointer:7> plenty ) ) ) ) )"}
+{"sent": "", "amr": "<pointer:0> reset-01 :ARG1 ( <pointer:1> industry :ARG0 ( <pointer:2> have-03 :ARG1 ( <pointer:3> excess :quant ( <pointer:4> plenty ) ) ) )"}
+{"sent": "", "amr": "<pointer:0> industry :ARG0 ( <pointer:1> have-03 :ARG1 ( <pointer:2> excess :quant ( <pointer:3> plenty ) ) )"}
+{"sent": "", "amr": "<pointer:0> have-03 :ARG1 ( <pointer:1> excess :quant ( <pointer:2> plenty ) )"}
+{"sent": "", "amr": "<pointer:0> give-01 :ARG0 ( <pointer:1> this ) :ARG1 ( <pointer:2> chance-02 :ARG0 ( <pointer:3> everybody :ARG1 ( <pointer:4> put-03 :ARG2 <pointer:5> :manner <pointer:6> ) :ARG1 ( <pointer:5> last-01 ) :ARG1 ( <pointer:6> stressing-03 ) :ARG0 ( <pointer:7> rethink-01 :ARG1 <pointer:9> :mod ( <pointer:8> kind-of ) ) :ARG0 ( <pointer:9> do-02 :ARG1 ( <pointer:10> it ) :manner ( <pointer:11> amr-unknown ) ) ) :ARG1 ( <pointer:12> and :op1 <pointer:4> :op2 <pointer:7> ) ) :ARG2 <pointer:3>"}
+{"sent": "", "amr": "<pointer:0> chance-02 :ARG0 ( <pointer:1> everybody :ARG1 ( <pointer:2> put-03 :ARG2 <pointer:3> :manner <pointer:4> ) :ARG1 ( <pointer:3> last-01 ) :ARG1 ( <pointer:4> stressing-03 ) :ARG0 ( <pointer:5> rethink-01 :ARG1 <pointer:7> :mod ( <pointer:6> kind-of ) ) :ARG0 ( <pointer:7> do-02 :ARG1 ( <pointer:8> it ) :manner ( <pointer:9> amr-unknown ) ) ) :ARG1 ( <pointer:10> and :op1 <pointer:2> :op2 <pointer:5> )"}
+{"sent": "", "amr": "<pointer:0> everybody :ARG1 ( <pointer:1> put-03 :ARG2 ( <pointer:2> last-01 ) :manner ( <pointer:3> stressing-03 ) ) :ARG1 <pointer:2> :ARG1 <pointer:3> :ARG0 ( <pointer:4> rethink-01 :ARG1 ( <pointer:5> do-02 :ARG1 ( <pointer:6> it ) :manner ( <pointer:7> amr-unknown ) :ARG0-of <pointer:0> ) :mod ( <pointer:8> kind-of ) )"}
+{"sent": "", "amr": "<pointer:0> put-03 :ARG2 ( <pointer:1> last-01 ) :manner ( <pointer:2> stressing-03 )"}
+{"sent": "", "amr": "<pointer:0> rethink-01 :ARG1 ( <pointer:1> do-02 :ARG1 ( <pointer:2> it ) :manner ( <pointer:3> amr-unknown ) ) :mod ( <pointer:4> kind-of )"}
+{"sent": "", "amr": "<pointer:0> do-02 :ARG1 ( <pointer:1> it ) :manner ( <pointer:2> amr-unknown )"}
+{"sent": "", "amr": "<pointer:0> get-03 :ARG1 ( <pointer:1> thing :ARG1 ( <pointer:2> get-03 :ARG2 <pointer:5> :mod ( <pointer:3> even ) :mod ( <pointer:4> again ) ) :ARG1 ( <pointer:5> normal-02 ) ) :ARG2 <pointer:5>"}
+{"sent": "", "amr": "<pointer:0> thing :ARG1 ( <pointer:1> get-03 :ARG2 ( <pointer:2> normal-02 ) :mod ( <pointer:3> even ) :mod ( <pointer:4> again ) ) :ARG1 <pointer:2>"}
+{"sent": "", "amr": "<pointer:0> get-03 :ARG2 ( <pointer:1> normal-02 ) :mod ( <pointer:2> even )"}
+{"sent": "", "amr": "<pointer:0> get-03 :ARG2 ( <pointer:1> normal-02 ) :mod ( <pointer:2> again )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> design-01 )"}
+{"sent": "", "amr": "<pointer:0> hit-01 :ARG1 ( <pointer:1> pavement )"}
+{"sent": "", "amr": "<pointer:0> produce-01 :ARG1 ( <pointer:1> show-04 :mod ( <pointer:2> some ) ) :ARG1 ( <pointer:3> fuel-01 :ARG0 ( <pointer:4> champagne ) ) :mod ( <pointer:5> gigantic )"}
+{"sent": "", "amr": "<pointer:0> fuel-01 :ARG0 ( <pointer:1> champagne )"}
+{"sent": "", "amr": "<pointer:0> clamor-01 :ARG0 ( <pointer:1> crowd ) :location ( <pointer:2> venue :mod ( <pointer:3> every :mod ( <pointer:4> near ) ) )"}
+{"sent": "", "amr": "<pointer:0> end :ARG1 ( <pointer:1> opposite-01 ) :part ( <pointer:2> spectrum :ARG0 ( <pointer:3> distance-01 :ARG1 ( <pointer:4> society ) ) )"}
+{"sent": "", "amr": "<pointer:0> spectrum :ARG0 ( <pointer:1> distance-01 :ARG1 ( <pointer:2> society ) )"}
+{"sent": "", "amr": "<pointer:0> distance-01 :ARG1 ( <pointer:1> society )"}
+{"sent": "", "amr": "<pointer:0> pause-01 :ARG0 ( <pointer:1> life :time ( <pointer:2> event ) ) :ARG1 ( <pointer:3> this :mod ( <pointer:4> all ) ) :time ( <pointer:5> now )"}
+{"sent": "", "amr": "<pointer:0> march-01 :ARG0 ( <pointer:1> and :op1 ( <pointer:2> person :quant ( <pointer:3> many ) :ARG0 ( <pointer:4> design-01 ) :ARG0 ( <pointer:5> present-01 ) ) :op2 ( <pointer:6> thing :ARG1 <pointer:5> ) ) :ARG1 ( <pointer:7> true-01 :ARG2 ( <pointer:8> form ) ) :time ( <pointer:9> week :mod ( <pointer:10> past ) )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> design-01 ) :ARG0 ( <pointer:2> present-01 ) :quant ( <pointer:3> many )"}
+{"sent": "", "amr": "<pointer:0> thing :ARG1 ( <pointer:1> present-01 )"}
+{"sent": "", "amr": "<pointer:0> true-01 :ARG2 ( <pointer:1> form )"}
+{"sent": "", "amr": "<pointer:0> familiarize-01 :ARG2 ( <pointer:1> format :mod ( <pointer:2> virtual :manner ( <pointer:3> or :op1 ( <pointer:4> video :ARG0 ( <pointer:5> stun-01 :manner ( <pointer:6> visual ) ) ) :op2 ( <pointer:7> photo :ARG0 ( <pointer:8> compel-01 :ARG1 ( <pointer:9> wonderful-03 ) ) ) ) ) :quant ( <pointer:10> most ) ) :degree ( <pointer:11> less )"}
+{"sent": "", "amr": "<pointer:0> video :ARG0 ( <pointer:1> stun-01 :manner ( <pointer:2> visual ) )"}
+{"sent": "", "amr": "<pointer:0> photo :ARG0 ( <pointer:1> compel-01 :ARG1 ( <pointer:2> wonderful-03 ) )"}
+{"sent": "", "amr": "<pointer:0> compel-01 :ARG1 ( <pointer:1> wonderful-03 )"}
+{"sent": "", "amr": "<pointer:0> opt-01 :ARG0 ( <pointer:1> name :mod ( <pointer:2> boldface ) :quant ( <pointer:3> lot ) ) :ARG1 ( <pointer:4> out )"}
+{"sent": "", "amr": "<pointer:0> brand :ARG1 ( <pointer:1> buzzy-03 ) :ARG0 ( <pointer:2> plan-01 :ARG1 ( <pointer:3> experience-01 :ARG1 ( <pointer:4> drive-in ) :ARG1 ( <pointer:5> distance-01 :mod ( <pointer:6> social ) ) ) ) :poss ( <pointer:7> season :mod ( <pointer:8> last ) )"}
+{"sent": "", "amr": "<pointer:0> plan-01 :ARG1 ( <pointer:1> experience-01 :ARG1 ( <pointer:2> drive-in ) :ARG1 ( <pointer:3> distance-01 :mod ( <pointer:4> social ) ) )"}
+{"sent": "", "amr": "<pointer:0> experience-01 :ARG1 ( <pointer:1> drive-in ) :ARG1 ( <pointer:2> distance-01 :mod ( <pointer:3> social ) )"}
+{"sent": "", "amr": "<pointer:0> out-06 :ARG2 ( <pointer:1> show :degree ( <pointer:2> entire ) :time ( <pointer:3> season :mod ( <pointer:4> this ) ) )"}
+{"sent": "", "amr": "<pointer:0> drop-01 :ARG1 ( <pointer:1> collaborate-01 )"}
+{"sent": "", "amr": "<pointer:0> experience-01 :ARG1 ( <pointer:1> fashion :ARG0 ( <pointer:2> live-01 ) :ARG1 ( <pointer:3> well-09 ) ) :prep-in ( <pointer:4> reality )"}
+{"sent": "", "amr": "<pointer:0> fashion :ARG0 ( <pointer:1> live-01 ) :ARG1 ( <pointer:2> well-09 )"}
+{"sent": "", "amr": "<pointer:0> opportunity :ARG1 ( <pointer:1> interpret-01 :ARG0 ( <pointer:2> rockets ) :quant ( <pointer:3> most ) ) :mod ( <pointer:4> interstitial )"}
+{"sent": "", "amr": "<pointer:0> opportunity :ARG1 ( <pointer:1> interpret-01 :ARG0 ( <pointer:2> rockets ) :quant ( <pointer:3> most ) ) :mod ( <pointer:4> virtual )"}
+{"sent": "", "amr": "<pointer:0> interpret-01 :ARG0 ( <pointer:1> rockets ) :quant ( <pointer:2> most )"}
+{"sent": "", "amr": "<pointer:0> attend-01 :ARG1 ( <pointer:1> guest ) :manner ( <pointer:2> sparse )"}
+{"sent": "", "amr": "<pointer:0> frock :ARG1 ( <pointer:1> color-01 :ARG2 ( <pointer:2> rust ) ) :ARG1 ( <pointer:3> pair-01 :ARG2 ( <pointer:4> sandal :mod ( <pointer:5> colorful ) :ARG1 ( <pointer:6> flat-06 ) ) ) :mod ( <pointer:7> eyelet )"}
+{"sent": "", "amr": "<pointer:0> color-01 :ARG2 ( <pointer:1> rust )"}
+{"sent": "", "amr": "<pointer:0> pair-01 :ARG2 ( <pointer:1> sandal :mod ( <pointer:2> colorful ) :ARG1 ( <pointer:3> flat-06 ) )"}
+{"sent": "", "amr": "<pointer:0> sandal :ARG1 ( <pointer:1> flat-06 ) :mod ( <pointer:2> colorful )"}
+{"sent": "", "amr": "<pointer:0> baggy :ARG1 ( <pointer:1> perfect-02 )"}
+{"sent": "", "amr": "<pointer:0> knit :ARG0 ( <pointer:1> hug-01 :ARG1 ( <pointer:2> body ) )"}
+{"sent": "", "amr": "<pointer:0> hug-01 :ARG1 ( <pointer:1> body )"}
+{"sent": "", "amr": "<pointer:0> dress :ARG1 ( <pointer:1> fit-06 :ARG1 ( <pointer:2> loose-04 ) )"}
+{"sent": "", "amr": "<pointer:0> fit-06 :ARG1 ( <pointer:1> loose-04 )"}
+{"sent": "", "amr": "<pointer:0> any :ARG1 ( <pointer:1> possible-01 )"}
+{"sent": "", "amr": "<pointer:0> day :ARG1 ( <pointer:1> long-03 :mod ( <pointer:2> potential ) ) :mod ( <pointer:3> ahead )"}
+{"sent": "", "amr": "<pointer:0> stick-01 :ARG2 ( <pointer:1> home )"}
+{"sent": "", "amr": "<pointer:0> make-02 :ARG1 ( <pointer:1> feel-01 :ARG1 ( <pointer:2> try-01 ) ) :mod ( <pointer:3> still )"}
+{"sent": "", "amr": "<pointer:0> feel-01 :ARG1 ( <pointer:1> try-01 )"}
+{"sent": "", "amr": "<pointer:0> look-02 :ARG1 ( <pointer:1> comfortable-02 )"}
+{"sent": "", "amr": "<pointer:0> include-91 :ARG2 ( <pointer:1> icon :poss ( <pointer:2> city ) :ARG1 ( <pointer:3> love-01 :ARG0 <pointer:2> :degree ( <pointer:4> most ) ) )"}
+{"sent": "", "amr": "<pointer:0> icon :ARG1 ( <pointer:1> love-01 :ARG0 ( <pointer:2> city ) :degree ( <pointer:3> most ) ) :poss <pointer:2>"}
+{"sent": "", "amr": "<pointer:0> love-01 :ARG0 ( <pointer:1> city ) :degree ( <pointer:2> most )"}
+{"sent": "", "amr": "<pointer:0> show-01 :ARG0 ( <pointer:1> she ) :ARG1 ( <pointer:2> curves :example ( <pointer:3> and :op1 ( <pointer:4> respecting :ARG1 ( <pointer:5> ruffle-01 ) :ARG1 ( <pointer:6> tie-01 ) :mod ( <pointer:7> frock ) ) :op2 ( <pointer:8> minidress :consist ( <pointer:9> lace :mod ( <pointer:10> sheer :mod <pointer:11> ) ) :mod ( <pointer:11> line ) ) ) :mod ( <pointer:12> heavy :topic ( <pointer:13> Romance ) ) :ARG1 ( <pointer:14> relax-01 :degree ( <pointer:15> more ) ) ) :mod ( <pointer:16> too )"}
+{"sent": "", "amr": "<pointer:0> show-01 :ARG0 ( <pointer:1> she ) :ARG1 ( <pointer:2> curves :example ( <pointer:3> and :op1 ( <pointer:4> respecting :ARG1 ( <pointer:5> ruffle-01 ) :ARG1 ( <pointer:6> tie-01 ) :mod ( <pointer:7> frock ) ) :op2 ( <pointer:8> minidress :consist ( <pointer:9> lace :mod ( <pointer:10> sheer :mod <pointer:11> ) ) :mod ( <pointer:11> line ) ) ) :mod ( <pointer:12> heavy :topic ( <pointer:13> Romance ) ) :ARG1 ( <pointer:14> relax-01 :degree ( <pointer:15> more ) ) ) :rel <pointer:7>"}
+{"sent": "", "amr": "<pointer:0> show-01 :ARG0 ( <pointer:1> she ) :ARG1 ( <pointer:2> curves :example ( <pointer:3> and :op1 ( <pointer:4> respecting :ARG1 ( <pointer:5> ruffle-01 ) :ARG1 ( <pointer:6> tie-01 ) :mod ( <pointer:7> frock ) ) :op2 ( <pointer:8> minidress :consist ( <pointer:9> lace :mod ( <pointer:10> sheer :mod <pointer:11> ) ) :mod ( <pointer:11> line ) ) ) :mod ( <pointer:12> heavy :topic ( <pointer:13> Romance ) ) :ARG1 ( <pointer:14> relax-01 :degree ( <pointer:15> more ) ) ) :rel ( <pointer:16> sleeve :mod ( <pointer:17> poufy ) )"}
+{"sent": "", "amr": "<pointer:0> curves :ARG1 ( <pointer:1> relax-01 :degree ( <pointer:2> more ) ) :example ( <pointer:3> and :op1 ( <pointer:4> respecting :ARG1 ( <pointer:5> ruffle-01 ) :ARG1 ( <pointer:6> tie-01 ) :mod ( <pointer:7> frock ) ) :op2 ( <pointer:8> minidress :consist ( <pointer:9> lace :mod ( <pointer:10> sheer :mod <pointer:11> ) ) :mod ( <pointer:11> line ) ) )"}
+{"sent": "", "amr": "<pointer:0> curves :ARG1 ( <pointer:1> relax-01 :degree ( <pointer:2> more ) ) :mod ( <pointer:3> heavy :topic ( <pointer:4> Romance ) )"}
+{"sent": "", "amr": "<pointer:0> respecting :ARG1 ( <pointer:1> ruffle-01 ) :ARG1 ( <pointer:2> tie-01 ) :mod ( <pointer:3> frock )"}
+{"sent": "", "amr": "<pointer:0> familiarize-01 :ARG1 ( <pointer:1> we ) :degree ( <pointer:2> too :degree ( <pointer:3> all ) )"}
+{"sent": "", "amr": "<pointer:0> familiarize-01 :ARG1 ( <pointer:1> we ) :time ( <pointer:2> day :mod ( <pointer:3> this ) )"}
+{"sent": "", "amr": "<pointer:0> earring :ARG1 ( <pointer:1> bold-02 )"}
+{"sent": "", "amr": "<pointer:0> zipping-01 :ARG2 ( <pointer:1> around :op1 ( <pointer:2> skatepark ) )"}
+{"sent": "", "amr": "<pointer:0> sewn-02 :ARG0 ( <pointer:1> hand )"}
+{"sent": "", "amr": "<pointer:0> found-01 :ARG1 ( <pointer:1> brand )"}
+{"sent": "", "amr": "<pointer:0> temporal-quantity :ARG1 ( <pointer:1> sever-02 ) :unit ( <pointer:2> year )"}
+{"sent": "", "amr": "<pointer:0> sell-01 :ARG1 ( <pointer:1> thread ) :ARG2 ( <pointer:2> url-entity ) :time ( <pointer:3> current )"}
+{"sent": "", "amr": "<pointer:0> presentation :ARG1 ( <pointer:1> dub-01 :ARG2 ( <pointer:2> cute :domain ( <pointer:3> change-01 ) ) ) :ARG1 ( <pointer:4> true-01 :ARG2 ( <pointer:5> root :mod ( <pointer:6> do-it-yourself ) :ARG1 ( <pointer:7> sustain-01 :ARG1 ( <pointer:8> possible-01 ) ) ) ) :mod ( <pointer:9> video )"}
+{"sent": "", "amr": "<pointer:0> presentation :ARG1 ( <pointer:1> dub-01 :ARG2 ( <pointer:2> cute :domain ( <pointer:3> change-01 ) ) ) :ARG1 ( <pointer:4> true-01 :ARG2 ( <pointer:5> root :mod ( <pointer:6> do-it-yourself ) :ARG1 ( <pointer:7> sustain-01 :ARG1 ( <pointer:8> possible-01 ) ) ) ) :mod ( <pointer:9> colorful :degree ( <pointer:10> wild ) )"}
+{"sent": "", "amr": "<pointer:0> dub-01 :ARG2 ( <pointer:1> cute :domain ( <pointer:2> change-01 ) )"}
+{"sent": "", "amr": "<pointer:0> true-01 :ARG2 ( <pointer:1> root :mod ( <pointer:2> do-it-yourself ) :ARG1 ( <pointer:3> sustain-01 :ARG1 ( <pointer:4> possible-01 ) ) )"}
+{"sent": "", "amr": "<pointer:0> root :ARG1 ( <pointer:1> sustain-01 :ARG1 ( <pointer:2> possible-01 ) ) :mod ( <pointer:3> do-it-yourself )"}
+{"sent": "", "amr": "<pointer:0> sustain-01 :ARG1 ( <pointer:1> possible-01 )"}
+{"sent": "", "amr": "<pointer:0> celebrate-01 :ARG0 ( <pointer:1> and :op1 ( <pointer:2> sweatsuit :ARG1 ( <pointer:3> dye-01 :ARG2 ( <pointer:4> tie ) ) ) :op2 ( <pointer:5> mask :ARG1 ( <pointer:6> shape-01 :ARG2 ( <pointer:7> flower ) ) ) :op3 ( <pointer:8> dress :mod ( <pointer:9> flor ) :mod ( <pointer:10> trippy ) :ARG1 ( <pointer:11> print-01 ) :ARG1 ( <pointer:12> loose-04 ) :ARG1 ( <pointer:13> style-01 :ARG2 ( <pointer:14> sneaker :mod ( <pointer:15> glittery ) :mod ( <pointer:16> chunk ) ) ) ) ) :ARG1 ( <pointer:17> let-01 :ARG0 ( <pointer:18> you :poss ( <pointer:19> flag :mod ( <pointer:20> freak :mod ( <pointer:21> fashion ) ) ) ) :ARG1 ( <pointer:22> fly-01 :ARG1 <pointer:19> :manner ( <pointer:23> way :ARG0 ( <pointer:24> induce-01 :ARG1 ( <pointer:25> smile-01 ) :degree ( <pointer:26> most ) ) :ARG1 ( <pointer:27> good-02 :degree ( <pointer:28> most ) ) :ARG1 ( <pointer:29> possible-01 ) ) ) )"}
+{"sent": "", "amr": "<pointer:0> sweatsuit :ARG1 ( <pointer:1> dye-01 :ARG2 ( <pointer:2> tie ) )"}
+{"sent": "", "amr": "<pointer:0> dye-01 :ARG2 ( <pointer:1> tie )"}
+{"sent": "", "amr": "<pointer:0> mask :ARG1 ( <pointer:1> shape-01 :ARG2 ( <pointer:2> flower ) )"}
+{"sent": "", "amr": "<pointer:0> shape-01 :ARG2 ( <pointer:1> flower )"}
+{"sent": "", "amr": "<pointer:0> dress :ARG1 ( <pointer:1> print-01 ) :ARG1 ( <pointer:2> loose-04 ) :ARG1 ( <pointer:3> style-01 :ARG2 ( <pointer:4> sneaker :mod ( <pointer:5> glittery ) :mod ( <pointer:6> chunk ) ) ) :mod ( <pointer:7> flor )"}
+{"sent": "", "amr": "<pointer:0> dress :ARG1 ( <pointer:1> print-01 ) :ARG1 ( <pointer:2> loose-04 ) :ARG1 ( <pointer:3> style-01 :ARG2 ( <pointer:4> sneaker :mod ( <pointer:5> glittery ) :mod ( <pointer:6> chunk ) ) ) :mod ( <pointer:7> trippy )"}
+{"sent": "", "amr": "<pointer:0> style-01 :ARG2 ( <pointer:1> sneaker :mod ( <pointer:2> glittery ) :mod ( <pointer:3> chunk ) )"}
+{"sent": "", "amr": "<pointer:0> let-01 :ARG0 ( <pointer:1> you :poss ( <pointer:2> flag :mod ( <pointer:3> freak :mod ( <pointer:4> fashion ) ) ) ) :ARG1 ( <pointer:5> fly-01 :ARG1 <pointer:2> :manner ( <pointer:6> way :ARG0 ( <pointer:7> induce-01 :ARG1 ( <pointer:8> smile-01 ) :degree ( <pointer:9> most ) ) :ARG1 ( <pointer:10> good-02 :degree ( <pointer:11> most ) ) :ARG1 ( <pointer:12> possible-01 ) ) )"}
+{"sent": "", "amr": "<pointer:0> fly-01 :ARG1 ( <pointer:1> flag :mod ( <pointer:2> freak :mod ( <pointer:3> fashion ) ) ) :manner ( <pointer:4> way :ARG0 ( <pointer:5> induce-01 :ARG1 ( <pointer:6> smile-01 ) :degree ( <pointer:7> most ) ) :ARG1 ( <pointer:8> good-02 :degree ( <pointer:9> most ) ) :ARG1 ( <pointer:10> possible-01 ) )"}
+{"sent": "", "amr": "<pointer:0> way :ARG0 ( <pointer:1> induce-01 :ARG1 ( <pointer:2> smile-01 ) :degree ( <pointer:3> most ) ) :ARG1 ( <pointer:4> good-02 :degree ( <pointer:5> most ) ) :ARG1 ( <pointer:6> possible-01 )"}
+{"sent": "", "amr": "<pointer:0> induce-01 :ARG1 ( <pointer:1> smile-01 ) :degree ( <pointer:2> most )"}
+{"sent": "", "amr": "<pointer:0> use-01 :ARG0 ( <pointer:1> amr-unknown ) :ARG1 ( <pointer:2> dose-01 :ARG2 ( <pointer:3> cheer-02 ) :ARG1 ( <pointer:4> serious-02 ) ) :time ( <pointer:5> now :mod ( <pointer:6> right ) )"}
+{"sent": "", "amr": "<pointer:0> dose-01 :ARG2 ( <pointer:1> cheer-02 ) :ARG1 ( <pointer:2> serious-02 )"}
+{"sent": "", "amr": "<pointer:0> have-org-role-91 :ARG1 ( <pointer:1> brand ) :ARG2 ( <pointer:2> director :mod ( <pointer:3> creative ) ) :time ( <pointer:4> current )"}
+{"sent": "", "amr": "<pointer:0> bottle :ARG1 ( <pointer:1> shape-01 :ARG2 ( <pointer:2> stiletto ) ) :mod ( <pointer:3> sexy :mod ( <pointer:4> wicked ) )"}
+{"sent": "", "amr": "<pointer:0> shape-01 :ARG2 ( <pointer:1> stiletto )"}
+{"sent": "", "amr": "<pointer:0> have-rel-role-91 :ARG2 ( <pointer:1> friend )"}
+{"sent": "", "amr": "<pointer:0> talk-01 :ARG0 ( <pointer:1> we ) :ARG1 ( <pointer:2> fashion ) :domain ( <pointer:3> it )"}
+{"sent": "", "amr": "<pointer:0> dust-01 :ARG2 ( <pointer:1> glitter )"}
+{"sent": "", "amr": "<pointer:0> clad-01 :ARG2 ( <pointer:1> heel :ARG1 ( <pointer:2> high-02 ) )"}
+{"sent": "", "amr": "<pointer:0> heel :ARG1 ( <pointer:1> high-02 )"}
+{"sent": "", "amr": "<pointer:0> be-located-at-91 :ARG1 ( <pointer:1> i ) :ARG2 ( <pointer:2> here ) :degree ( <pointer:3> much :degree ( <pointer:4> very ) )"}
+{"sent": "", "amr": "<pointer:0> serve-01 :ARG0 ( <pointer:1> they ) :ARG1 ( <pointer:2> pose :ARG1 ( <pointer:3> serious-01 ) ) :rel ( <pointer:4> Intel-01 )"}
+{"sent": "", "amr": "<pointer:0> serve-01 :ARG0 ( <pointer:1> they ) :ARG1 ( <pointer:2> pose :ARG1 ( <pointer:3> serious-01 ) ) :rel ( <pointer:4> design-01 )"}
+{"sent": "", "amr": "<pointer:0> pose :ARG1 ( <pointer:1> serious-01 )"}
+{"sent": "", "amr": "<pointer:0> fluid-03 :ARG2 ( <pointer:1> gender )"}
+{"sent": "", "amr": "<pointer:0> embellish-01 :ARG1 ( <pointer:1> bow )"}
+{"sent": "", "amr": "<pointer:0> fit-06 :ARG2 ( <pointer:1> form )"}
+{"sent": "", "amr": "<pointer:0> limit-01 :ARG1 ( <pointer:1> creativity :ARG1 ( <pointer:2> restrain-01 :time ( <pointer:3> season :mod ( <pointer:4> this ) ) ) ) :concession <pointer:2>"}
+{"sent": "", "amr": "<pointer:0> creativity :ARG1 ( <pointer:1> restrain-01 :time ( <pointer:2> season :mod ( <pointer:3> this ) ) )"}
+{"sent": "", "amr": "<pointer:0> gown :ARG1 ( <pointer:1> voluminous-02 ) :mod ( <pointer:2> ball )"}
+{"sent": "", "amr": "<pointer:0> gown :ARG1 ( <pointer:1> voluminous-02 ) :prep-with ( <pointer:2> layer :consist ( <pointer:3> layer ) )"}
+{"sent": "", "amr": "<pointer:0> perfect-02 :ARG2 ( <pointer:1> distance-01 :ARG1 ( <pointer:2> you :poss <pointer:3> ) :location ( <pointer:3> gala :mod ( <pointer:4> tie :ARG1 ( <pointer:5> black-04 ) ) :mod ( <pointer:6> next ) ) :manner ( <pointer:7> social ) )"}
+{"sent": "", "amr": "<pointer:0> distance-01 :ARG1 ( <pointer:1> you :poss ( <pointer:2> gala :mod ( <pointer:3> tie :ARG1 ( <pointer:4> black-04 ) ) :mod ( <pointer:5> next ) ) ) :location <pointer:2>"}
+{"sent": "", "amr": "<pointer:0> distance-01 :ARG1 ( <pointer:1> you :poss ( <pointer:2> gala :mod ( <pointer:3> tie :ARG1 ( <pointer:4> black-04 ) ) :mod ( <pointer:5> next ) ) ) :manner ( <pointer:6> social )"}
+{"sent": "", "amr": "<pointer:0> tie :ARG1 ( <pointer:1> black-04 )"}
+{"sent": "", "amr": "<pointer:0> few :ARG1 ( <pointer:1> select-01 )"}
+{"sent": "", "amr": "<pointer:0> show-04 :ARG1 ( <pointer:1> fashion )"}
+{"sent": "", "amr": "<pointer:0> wear-01 :ARG1 ( <pointer:1> glitter :mod ( <pointer:2> head-to-toe ) :ARG2 ( <pointer:3> include-01 :ARG1 ( <pointer:4> mask ) ) )"}
+{"sent": "", "amr": "<pointer:0> glitter :ARG2 ( <pointer:1> include-01 :ARG1 ( <pointer:2> mask ) ) :mod ( <pointer:3> head-to-toe )"}
+{"sent": "", "amr": "<pointer:0> include-01 :ARG1 ( <pointer:1> mask )"}
+{"sent": "", "amr": "<pointer:0> store :ARG1 ( <pointer:1> new-01 ) :mod ( <pointer:2> flagship )"}
+{"sent": "", "amr": "<pointer:0> store :ARG1 ( <pointer:1> new-01 ) :mod ( <pointer:2> atelier )"}
+{"sent": "", "amr": "<pointer:0> person :ARG1 ( <pointer:1> impregnate-01 ) :ARG0 ( <pointer:2> dip-01 :ARG1 ( <pointer:3> gown :mod ( <pointer:4> ball ) :ARG1 ( <pointer:5> ruffle-01 ) :ARG1 ( <pointer:6> red-02 ) :poss-of <pointer:0> ) :manner ( <pointer:7> impromptu ) )"}
+{"sent": "", "amr": "<pointer:0> dip-01 :ARG1 ( <pointer:1> gown :mod ( <pointer:2> ball ) :ARG1 ( <pointer:3> ruffle-01 ) :ARG1 ( <pointer:4> red-02 ) ) :manner ( <pointer:5> impromptu )"}
+{"sent": "", "amr": "<pointer:0> gown :ARG1 ( <pointer:1> ruffle-01 ) :ARG1 ( <pointer:2> red-02 ) :mod ( <pointer:3> ball )"}
+{"sent": "", "amr": "<pointer:0> series :ARG0 ( <pointer:1> strip-01 :ARG0 ( <pointer:2> heavy-on-the-sex-00 ) )"}
+{"sent": "", "amr": "<pointer:0> strip-01 :ARG0 ( <pointer:1> heavy-on-the-sex-00 )"}
+{"sent": "", "amr": "<pointer:0> edit-01 :ARG1 ( <pointer:1> tight-05 )"}
+{"sent": "", "amr": "<pointer:0> button :ARG1 ( <pointer:1> short-07 ) :mod ( <pointer:2> machine :mod ( <pointer:3> anim ) :ARG1 ( <pointer:4> advertise-01 ) )"}
+{"sent": "", "amr": "<pointer:0> machine :ARG1 ( <pointer:1> advertise-01 ) :mod ( <pointer:2> anim )"}
+{"sent": "", "amr": "<pointer:0> affair-02 :ARG1 ( <pointer:1> show-04 :ARG0 ( <pointer:2> he ) ) :ARG1 ( <pointer:3> fill-01 :ARG2 ( <pointer:4> product :mod ( <pointer:5> celebrity ) :mod ( <pointer:6> graceful ) ) :degree ( <pointer:7> most ) ) :ARG1 ( <pointer:8> typical-02 )"}
+{"sent": "", "amr": "<pointer:0> show-04 :ARG0 ( <pointer:1> he )"}
+{"sent": "", "amr": "<pointer:0> fill-01 :ARG2 ( <pointer:1> product :mod ( <pointer:2> celebrity ) :mod ( <pointer:3> graceful ) ) :degree ( <pointer:4> most )"}
+{"sent": "", "amr": "<pointer:0> use-02 :ARG0 ( <pointer:1> he :ARG0 ( <pointer:2> gawk-01 :ARG1 <pointer:6> :time ( <pointer:3> time :mod ( <pointer:4> before :op1 ( <pointer:5> pandemic ) ) ) ) :poss ( <pointer:6> row :mod ( <pointer:7> front ) :mod ( <pointer:8> bold ) ) ) :ARG1 <pointer:2> :ARG1 ( <pointer:9> cause-01 :ARG0 ( <pointer:10> something :mod ( <pointer:11> lovely :degree ( <pointer:12> supreme ) ) :topic ( <pointer:13> and :op1 ( <pointer:14> scroll-01 :ARG1 ( <pointer:15> photo ) :ARG1 ( <pointer:16> simple-02 ) ) :op2 ( <pointer:17> pour-01 :ARG1 ( <pointer:18> detail :example ( <pointer:19> emblazon-01 :ARG1 ( <pointer:20> logo ) :ARG2 ( <pointer:21> pants :mod ( <pointer:22> pajama ) ) :prep-for ( <pointer:23> one ) ) :mod ( <pointer:24> all ) ) ) ) ) )"}
+{"sent": "", "amr": "<pointer:0> he :ARG0 ( <pointer:1> gawk-01 :ARG1 ( <pointer:2> row :mod ( <pointer:3> front ) :mod ( <pointer:4> bold ) ) :time ( <pointer:5> time :mod ( <pointer:6> before :op1 ( <pointer:7> pandemic ) ) ) ) :poss <pointer:2>"}
+{"sent": "", "amr": "<pointer:0> gawk-01 :ARG1 ( <pointer:1> row :mod ( <pointer:2> front ) :mod ( <pointer:3> bold ) ) :time ( <pointer:4> time :mod ( <pointer:5> before :op1 ( <pointer:6> pandemic ) ) )"}
+{"sent": "", "amr": "<pointer:0> cause-01 :ARG0 ( <pointer:1> something :mod ( <pointer:2> lovely :degree ( <pointer:3> supreme ) ) :topic ( <pointer:4> and :op1 ( <pointer:5> scroll-01 :ARG1 ( <pointer:6> photo ) :ARG1 ( <pointer:7> simple-02 ) ) :op2 ( <pointer:8> pour-01 :ARG1 ( <pointer:9> detail :example ( <pointer:10> emblazon-01 :ARG1 ( <pointer:11> logo ) :ARG2 ( <pointer:12> pants :mod ( <pointer:13> pajama ) ) :prep-for ( <pointer:14> one ) ) :mod ( <pointer:15> all ) ) ) ) )"}
+{"sent": "", "amr": "<pointer:0> scroll-01 :ARG1 ( <pointer:1> photo ) :ARG1 ( <pointer:2> simple-02 )"}
+{"sent": "", "amr": "<pointer:0> pour-01 :ARG1 ( <pointer:1> detail :example ( <pointer:2> emblazon-01 :ARG1 ( <pointer:3> logo ) :ARG2 ( <pointer:4> pants :mod ( <pointer:5> pajama ) ) :prep-for ( <pointer:6> one ) ) :mod ( <pointer:7> all ) )"}
+{"sent": "", "amr": "<pointer:0> emblazon-01 :ARG1 ( <pointer:1> logo ) :ARG2 ( <pointer:2> pants :mod ( <pointer:3> pajama ) ) :prep-for ( <pointer:4> one )"}
+{"sent": "", "amr": "<pointer:0> wear-01 :ARG1 ( <pointer:1> and :op1 ( <pointer:2> sweatpad :mod ( <pointer:3> baggy ) :quant ( <pointer:4> pair ) ) :op2 ( <pointer:5> sweater :mod ( <pointer:6> wool ) :ARG1 ( <pointer:7> cover-02 :ARG2 ( <pointer:8> hole ) ) ) )"}
+{"sent": "", "amr": "<pointer:0> sweater :ARG1 ( <pointer:1> cover-02 :ARG2 ( <pointer:2> hole ) ) :mod ( <pointer:3> wool )"}
+{"sent": "", "amr": "<pointer:0> cover-02 :ARG2 ( <pointer:1> hole )"}
+{"sent": "", "amr": "<pointer:0> hop-01 :ARG1 ( <pointer:1> show-04 )"}
+{"sent": "", "amr": "<pointer:0> opt-01 :ARG0 ( <pointer:1> person :ARG0 ( <pointer:2> design-01 ) :ARG0 ( <pointer:3> show-01 :ARG1 ( <pointer:4> and :op1 <pointer:5> :op2 <pointer:6> :op3 <pointer:7> ) ) :ARG0 ( <pointer:5> hopeful-03 ) :ARG0 ( <pointer:6> dream-01 ) :poss ( <pointer:7> thread ) ) :ARG1 <pointer:3> :time ( <pointer:8> pandemic :mod ( <pointer:9> globe ) )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> design-01 ) :ARG0 ( <pointer:2> show-01 :ARG1 ( <pointer:3> and :op1 ( <pointer:4> hopeful-03 ) :op2 ( <pointer:5> dream-01 ) :op3 ( <pointer:6> thread ) ) ) :ARG0 <pointer:4> :ARG0 <pointer:5> :poss <pointer:6>"}
+{"sent": "", "amr": "<pointer:0> show-01 :ARG1 ( <pointer:1> and :op1 ( <pointer:2> hopeful-03 ) :op2 ( <pointer:3> dream-01 ) :op3 ( <pointer:4> thread ) )"}
+{"sent": "", "amr": "<pointer:0> deliver-01 :ARG0 ( <pointer:1> it ) :degree ( <pointer:2> more-than )"}
+{"sent": "", "amr": "<pointer:0> feature-01 :ARG1 ( <pointer:1> look :time ( <pointer:2> date-entity :season ( <pointer:3> fall ) ) :ARG1 ( <pointer:4> stay-01 :ARG3 <pointer:5> ) :ARG1 ( <pointer:5> true-01 :ARG2 ( <pointer:6> aesthetic :mod ( <pointer:7> rock :mod ( <pointer:8> boho ) ) :mod ( <pointer:9> signature ) :mod ( <pointer:10> Sorceence ) ) ) )"}
+{"sent": "", "amr": "<pointer:0> look :ARG1 ( <pointer:1> stay-01 :ARG3 ( <pointer:2> true-01 :ARG2 ( <pointer:3> aesthetic :mod ( <pointer:4> rock :mod ( <pointer:5> boho ) ) :mod ( <pointer:6> signature ) :mod ( <pointer:7> Sorceence ) ) ) ) :ARG1 <pointer:2> :time ( <pointer:8> date-entity :season ( <pointer:9> fall ) )"}
+{"sent": "", "amr": "<pointer:0> stay-01 :ARG3 ( <pointer:1> true-01 :ARG2 ( <pointer:2> aesthetic :mod ( <pointer:3> rock :mod ( <pointer:4> boho ) ) :mod ( <pointer:5> signature ) :mod ( <pointer:6> Sorceence ) ) )"}
+{"sent": "", "amr": "<pointer:0> true-01 :ARG2 ( <pointer:1> aesthetic :mod ( <pointer:2> rock :mod ( <pointer:3> boho ) ) :mod ( <pointer:4> signature ) :mod ( <pointer:5> Sorceence ) )"}
+{"sent": "", "amr": "<pointer:0> diorama :ARG1 ( <pointer:1> furnish-02 :ARG1 ( <pointer:2> complete-02 ) )"}
+{"sent": "", "amr": "<pointer:0> furnish-02 :ARG1 ( <pointer:1> complete-02 )"}
+{"sent": "", "amr": "<pointer:0> rehearse-01 :ARG1 ( <pointer:1> dress ) :time ( <pointer:2> late :op1 ( <pointer:3> date-entity :dayperiod ( <pointer:4> night ) ) )"}
+{"sent": "", "amr": "<pointer:0> concern-02 :ARG1 ( <pointer:1> sensibility :mod ( <pointer:2> rock :mod ( <pointer:3> boho ) ) :mod ( <pointer:4> this ) :ARG2 ( <pointer:5> know-02 :ARG1 ( <pointer:6> we ) ) ) :degree ( <pointer:7> all )"}
+{"sent": "", "amr": "<pointer:0> sensibility :ARG2 ( <pointer:1> know-02 :ARG1 ( <pointer:2> we ) ) :mod ( <pointer:3> rock :mod ( <pointer:4> boho ) )"}
+{"sent": "", "amr": "<pointer:0> sensibility :ARG2 ( <pointer:1> know-02 :ARG1 ( <pointer:2> we ) ) :mod ( <pointer:3> this )"}
+{"sent": "", "amr": "<pointer:0> know-02 :ARG1 ( <pointer:1> we )"}
+{"sent": "", "amr": "<pointer:0> concern-02 :ARG0 ( <pointer:1> it ) :ARG1 ( <pointer:2> celebrate-02 :ARG1 ( <pointer:3> institution :mod ( <pointer:4> culture ) :ARG1 ( <pointer:5> love-01 :ARG0 ( <pointer:6> i ) ) :ARG1 ( <pointer:7> come-02 ) ) )"}
+{"sent": "", "amr": "<pointer:0> celebrate-02 :ARG1 ( <pointer:1> institution :mod ( <pointer:2> culture ) :ARG1 ( <pointer:3> love-01 :ARG0 ( <pointer:4> i ) ) :ARG1 ( <pointer:5> come-02 ) )"}
+{"sent": "", "amr": "<pointer:0> institution :ARG1 ( <pointer:1> love-01 :ARG0 ( <pointer:2> i ) ) :ARG1 ( <pointer:3> come-02 ) :mod ( <pointer:4> culture )"}
+{"sent": "", "amr": "<pointer:0> love-01 :ARG0 ( <pointer:1> i )"}
+{"sent": "", "amr": "<pointer:0> model :ARG1 ( <pointer:1> mask-01 )"}
+{"sent": "", "amr": "<pointer:0> layer :ARG1 ( <pointer:1> embellish-01 )"}
+{"sent": "", "amr": "<pointer:0> accessory :ARG0 ( <pointer:1> scream-01 :ARG1 ( <pointer:2> badass :compared-to ( <pointer:3> boho ) :degree ( <pointer:4> more ) ) ) :mod ( <pointer:5> detail )"}
+{"sent": "", "amr": "<pointer:0> scream-01 :ARG1 ( <pointer:1> badass :compared-to ( <pointer:2> boho ) :degree ( <pointer:3> more ) )"}
+{"sent": "", "amr": "<pointer:0> collection :ARG1 ( <pointer:1> ready-01 :ARG2 ( <pointer:2> wear-01 ) ) :ARG1 ( <pointer:3> conform-01 :ARG3 ( <pointer:4> aesthetic :mod ( <pointer:5> signature ) ) ) :accompanier ( <pointer:6> and :accompanier ( <pointer:7> and :op1 ( <pointer:8> sequin :mod ( <pointer:9> glitzy ) ) :op2 ( <pointer:10> leather ) :time ( <pointer:11> date-entity :dayperiod ( <pointer:12> night ) ) ) :op1 ( <pointer:13> print :mod ( <pointer:14> animal ) :ARG0 ( <pointer:15> comfort-01 ) ) :op2 ( <pointer:16> plaid ) :op3 ( <pointer:17> houndstooth ) :time ( <pointer:18> day ) )"}
+{"sent": "", "amr": "<pointer:0> collection :ARG1 ( <pointer:1> ready-01 :ARG2 ( <pointer:2> wear-01 ) ) :ARG1 ( <pointer:3> conform-01 :ARG3 ( <pointer:4> aesthetic :mod ( <pointer:5> signature ) ) ) :poss ( <pointer:6> she :poss <pointer:4> )"}
+{"sent": "", "amr": "<pointer:0> print :ARG0 ( <pointer:1> comfort-01 ) :mod ( <pointer:2> animal )"}
+{"sent": "", "amr": "<pointer:0> ready-01 :ARG2 ( <pointer:1> wear-01 )"}
+{"sent": "", "amr": "<pointer:0> conform-01 :ARG3 ( <pointer:1> aesthetic :mod ( <pointer:2> signature ) )"}
+{"sent": "", "amr": "<pointer:0> sail-01 :ARG0 ( <pointer:1> she ) :ARG1 ( <pointer:2> thing :quant ( <pointer:3> some ) :ARG0 ( <pointer:4> surprise-01 ) )"}
+{"sent": "", "amr": "<pointer:0> thing :ARG0 ( <pointer:1> surprise-01 ) :quant ( <pointer:2> some )"}
+{"sent": "", "amr": "<pointer:0> model :ARG1 ( <pointer:1> draped-01 :ARG2 ( <pointer:2> coat :mod ( <pointer:3> military ) :ARG1 ( <pointer:4> black-04 ) :ARG1 ( <pointer:5> long-03 ) :accompanier-of <pointer:0> ) )"}
+{"sent": "", "amr": "<pointer:0> draped-01 :ARG2 ( <pointer:1> coat :mod ( <pointer:2> military ) :ARG1 ( <pointer:3> black-04 ) :ARG1 ( <pointer:4> long-03 ) )"}
+{"sent": "", "amr": "<pointer:0> coat :ARG1 ( <pointer:1> black-04 ) :ARG1 ( <pointer:2> long-03 ) :mod ( <pointer:3> military )"}
+{"sent": "", "amr": "<pointer:0> notice-01 :ARG0 ( <pointer:1> you :ARG0 ( <pointer:2> nurse-01 ) ) :time ( <pointer:3> ever )"}
+{"sent": "", "amr": "<pointer:0> you :ARG0 ( <pointer:1> nurse-01 )"}
+{"sent": "", "amr": "<pointer:0> have-rel-role-91 :ARG0 ( <pointer:1> s ) :ARG2 ( <pointer:2> mother )"}
+{"sent": "", "amr": "<pointer:0> cause-01 :ARG0 ( <pointer:1> item :beneficiary ( <pointer:2> mom :mod ( <pointer:3> any ) ) :mod ( <pointer:4> essential ) )"}
+{"sent": "", "amr": "<pointer:0> need-01 :ARG0 ( <pointer:1> mom ) :ARG1 ( <pointer:2> way :manner ( <pointer:3> keep-02 :ARG0 ( <pointer:4> we :poss ( <pointer:5> part :mod ( <pointer:6> all ) :part ( <pointer:7> pump ) ) :ARG1 ( <pointer:8> out-06 ) :domain ( <pointer:9> about ) ) :ARG1 ( <pointer:10> organize-01 :ARG1 <pointer:5> ) :time ( <pointer:11> and :op1 <pointer:8> :op2 <pointer:9> ) ) )"}
+{"sent": "", "amr": "<pointer:0> keep-02 :ARG0 ( <pointer:1> we :poss ( <pointer:2> part :mod ( <pointer:3> all ) :part ( <pointer:4> pump ) ) :ARG1 ( <pointer:5> out-06 ) :domain ( <pointer:6> about ) ) :ARG1 ( <pointer:7> organize-01 :ARG1 <pointer:2> ) :time ( <pointer:8> and :op1 <pointer:5> :op2 <pointer:6> )"}
+{"sent": "", "amr": "<pointer:0> we :ARG1 ( <pointer:1> out-06 ) :poss ( <pointer:2> part :mod ( <pointer:3> all ) :part ( <pointer:4> pump ) )"}
+{"sent": "", "amr": "<pointer:0> we :ARG1 ( <pointer:1> out-06 ) :domain ( <pointer:2> about )"}
+{"sent": "", "amr": "<pointer:0> organize-01 :ARG1 ( <pointer:1> part :mod ( <pointer:2> all ) :part ( <pointer:3> pump ) )"}
+{"sent": "", "amr": "<pointer:0> flux-01 :ARG1 ( <pointer:1> industry :mod ( <pointer:2> fashion ) )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> design-01 ) :ARG0 ( <pointer:2> partner-01 :purpose ( <pointer:3> make-02 :ARG1 ( <pointer:4> reality :domain ( <pointer:5> show-04 :ARG1 ( <pointer:6> fashion ) ) :ARG1 ( <pointer:7> have-condition-91 :ARG2 ( <pointer:8> show-04 :ARG1 <pointer:5> :manner ( <pointer:9> live ) ) :degree ( <pointer:10> especially ) ) ) :time ( <pointer:11> season :mod ( <pointer:12> this ) ) ) ) :mod ( <pointer:13> individual )"}
+{"sent": "", "amr": "<pointer:0> forge-02 :ARG1 ( <pointer:1> partner-01 :purpose ( <pointer:2> make-02 :ARG1 ( <pointer:3> reality :domain ( <pointer:4> show-04 :ARG1 ( <pointer:5> fashion ) ) :ARG1 ( <pointer:6> have-condition-91 :ARG2 ( <pointer:7> show-04 :ARG1 <pointer:4> :manner ( <pointer:8> live ) ) :degree ( <pointer:9> especially ) ) ) :time ( <pointer:10> season :mod ( <pointer:11> this ) ) ) )"}
+{"sent": "", "amr": "<pointer:0> make-02 :ARG1 ( <pointer:1> reality :domain ( <pointer:2> show-04 :ARG1 ( <pointer:3> fashion ) ) :ARG1 ( <pointer:4> have-condition-91 :ARG2 ( <pointer:5> show-04 :ARG1 <pointer:2> :manner ( <pointer:6> live ) ) :degree ( <pointer:7> especially ) ) ) :time ( <pointer:8> season :mod ( <pointer:9> this ) )"}
+{"sent": "", "amr": "<pointer:0> reality :ARG1 ( <pointer:1> have-condition-91 :ARG2 ( <pointer:2> show-04 :ARG1 ( <pointer:3> show-04 :ARG1 ( <pointer:4> fashion ) :domain-of <pointer:0> ) :manner ( <pointer:5> live ) ) :degree ( <pointer:6> especially ) )"}
+{"sent": "", "amr": "<pointer:0> have-condition-91 :ARG2 ( <pointer:1> show-04 :ARG1 ( <pointer:2> show-04 :ARG1 ( <pointer:3> fashion ) ) :manner ( <pointer:4> live ) ) :degree ( <pointer:5> especially )"}
+{"sent": "", "amr": "<pointer:0> show-04 :ARG1 ( <pointer:1> show-04 :ARG1 ( <pointer:2> fashion ) ) :manner ( <pointer:3> live )"}
+{"sent": "", "amr": "<pointer:0> show-04 :ARG1 ( <pointer:1> fashion )"}
+{"sent": "", "amr": "<pointer:0> provide-01 :ARG1 ( <pointer:1> and :op1 ( <pointer:2> furniture ) :op2 ( <pointer:3> decor ) ) :purpose ( <pointer:4> event )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> support-01 :ARG1 ( <pointer:2> and :op1 ( <pointer:3> feed-01 :ARG1 ( <pointer:4> milk :mod ( <pointer:5> breast ) ) ) :op2 ( <pointer:6> have-03 :ARG0 ( <pointer:7> mother :mod ( <pointer:8> punishable ) :ARG0 ( <pointer:9> work-01 ) ) ) ) ) :ARG2 <pointer:3> :poss ( <pointer:10> passion :topic <pointer:1> )"}
+{"sent": "", "amr": "<pointer:0> support-01 :ARG1 ( <pointer:1> and :op1 ( <pointer:2> feed-01 :ARG1 ( <pointer:3> milk :mod ( <pointer:4> breast ) ) ) :op2 ( <pointer:5> have-03 :ARG0 ( <pointer:6> mother :mod ( <pointer:7> punishable ) :ARG0 ( <pointer:8> work-01 ) ) ) )"}
+{"sent": "", "amr": "<pointer:0> feed-01 :ARG1 ( <pointer:1> milk :mod ( <pointer:2> breast ) )"}
+{"sent": "", "amr": "<pointer:0> have-03 :ARG0 ( <pointer:1> mother :mod ( <pointer:2> punishable ) :ARG0 ( <pointer:3> work-01 ) )"}
+{"sent": "", "amr": "<pointer:0> mother :ARG0 ( <pointer:1> work-01 ) :mod ( <pointer:2> punishable )"}
+{"sent": "", "amr": "<pointer:0> she :ARG1 ( <pointer:1> have-rel-role-91 :ARG2 ( <pointer:2> child ) )"}
+{"sent": "", "amr": "<pointer:0> have-rel-role-91 :ARG2 ( <pointer:1> child )"}
+{"sent": "", "amr": "<pointer:0> fit-06 :ARG0 ( <pointer:1> we :mod ( <pointer:2> both ) :ARG0 ( <pointer:3> develop-02 :ARG1 ( <pointer:4> something ) ) ) :ARG1 ( <pointer:5> collaborate-01 ) :ARG2 <pointer:3> :ARG1 ( <pointer:6> natural-03 )"}
+{"sent": "", "amr": "<pointer:0> we :ARG0 ( <pointer:1> develop-02 :ARG1 ( <pointer:2> something ) ) :mod ( <pointer:3> both )"}
+{"sent": "", "amr": "<pointer:0> develop-02 :ARG1 ( <pointer:1> something )"}
+{"sent": "", "amr": "<pointer:0> bag :ARG1 ( <pointer:1> design-01 :ARG3 ( <pointer:2> hold-01 ) ) :ARG0 <pointer:2> :mod ( <pointer:3> lightweight )"}
+{"sent": "", "amr": "<pointer:0> design-01 :ARG3 ( <pointer:1> hold-01 )"}
+{"sent": "", "amr": "<pointer:0> bag :ARG1 ( <pointer:1> fit-06 :ARG2 ( <pointer:2> pump :mod ( <pointer:3> breast ) :ARG1 ( <pointer:4> use-01 :ARG0 ( <pointer:5> person ) ) ) ) :mod ( <pointer:6> edition :ARG1 ( <pointer:7> limit-01 ) )"}
+{"sent": "", "amr": "<pointer:0> bag :ARG1 ( <pointer:1> fit-06 :ARG2 ( <pointer:2> pump :mod ( <pointer:3> breast ) :ARG1 ( <pointer:4> use-01 :ARG0 ( <pointer:5> person ) ) ) ) :mod ( <pointer:6> versatile )"}
+{"sent": "", "amr": "<pointer:0> edition :ARG1 ( <pointer:1> limit-01 )"}
+{"sent": "", "amr": "<pointer:0> fit-06 :ARG2 ( <pointer:1> pump :mod ( <pointer:2> breast ) :ARG1 ( <pointer:3> use-01 :ARG0 ( <pointer:4> person ) ) )"}
+{"sent": "", "amr": "<pointer:0> pump :ARG1 ( <pointer:1> use-01 :ARG0 ( <pointer:2> person ) ) :mod ( <pointer:3> breast )"}
+{"sent": "", "amr": "<pointer:0> use-01 :ARG0 ( <pointer:1> person )"}
+{"sent": "", "amr": "<pointer:0> work-01 :ARG0 ( <pointer:1> we ) :manner ( <pointer:2> together )"}
+{"sent": "", "amr": "<pointer:0> design-01 :ARG1 ( <pointer:1> something ) :ARG3 ( <pointer:2> you :mod ( <pointer:3> guy ) )"}
+{"sent": "", "amr": "<pointer:0> possible-01 :ARG1 ( <pointer:1> bag :poss ( <pointer:2> i :ARG0 ( <pointer:3> be-done-08 :ARG1 <pointer:4> ) :ARG0 ( <pointer:4> pump-01 ) :ARG0 ( <pointer:5> be-done-08 :ARG1 ( <pointer:6> diaper-01 ) ) :ARG0 ( <pointer:7> wear-01 :ARG1 <pointer:8> ) :ARG0 ( <pointer:8> love-02 ) :ARG0 ( <pointer:9> have-03 ) ) :purpose ( <pointer:10> diaper :ARG1 <pointer:5> ) ) :time <pointer:3>"}
+{"sent": "", "amr": "<pointer:0> i :ARG0 ( <pointer:1> be-done-08 :ARG1 ( <pointer:2> pump-01 ) ) :ARG0 <pointer:2> :ARG0 ( <pointer:3> be-done-08 :ARG1 ( <pointer:4> diaper-01 ) ) :ARG0 ( <pointer:5> wear-01 :ARG1 ( <pointer:6> love-02 ) ) :ARG0 <pointer:6> :ARG0 ( <pointer:7> have-03 )"}
+{"sent": "", "amr": "<pointer:0> diaper :ARG1 ( <pointer:1> be-done-08 :ARG1 ( <pointer:2> diaper-01 ) )"}
+{"sent": "", "amr": "<pointer:0> be-done-08 :ARG1 ( <pointer:1> pump-01 )"}
+{"sent": "", "amr": "<pointer:0> be-done-08 :ARG1 ( <pointer:1> diaper-01 )"}
+{"sent": "", "amr": "<pointer:0> something :ARG1 ( <pointer:1> wear-01 :ARG1 ( <pointer:2> love-02 ) )"}
+{"sent": "", "amr": "<pointer:0> wear-01 :ARG1 ( <pointer:1> love-02 )"}
+{"sent": "", "amr": "<pointer:0> bag :ARG2 ( <pointer:1> bag :purpose ( <pointer:2> gym ) :ARG2 ( <pointer:3> have-03 ) ) :ARG1 <pointer:3>"}
+{"sent": "", "amr": "<pointer:0> bag :ARG2 ( <pointer:1> have-03 ) :purpose ( <pointer:2> gym )"}
+{"sent": "", "amr": "<pointer:0> something :ARG0 ( <pointer:1> Gets-something-with-Multi-Function-00 :ARG1 ( <pointer:2> possible-01 ) )"}
+{"sent": "", "amr": "<pointer:0> Gets-something-with-Multi-Function-00 :ARG1 ( <pointer:1> possible-01 )"}
+{"sent": "", "amr": "<pointer:0> highlight-01 :ARG1 ( <pointer:1> feature :ARG1 ( <pointer:2> favor-01 ) )"}
+{"sent": "", "amr": "<pointer:0> feature :ARG1 ( <pointer:1> favor-01 )"}
+{"sent": "", "amr": "<pointer:0> leak-01 :ARG1 ( <pointer:1> milk ) :source ( <pointer:2> cap )"}
+{"sent": "", "amr": "<pointer:0> bad-07 :ARG1 ( <pointer:1> nothing ) :compared-to ( <pointer:2> milk :ARG1 ( <pointer:3> spilt-01 ) )"}
+{"sent": "", "amr": "<pointer:0> bad-07 :ARG1 ( <pointer:1> nothing ) :degree ( <pointer:2> more )"}
+{"sent": "", "amr": "<pointer:0> milk :ARG1 ( <pointer:1> spilt-01 )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> work-01 ) :ARG0 ( <pointer:2> trek-01 :ARG2 ( <pointer:3> workplace ) ) :quant ( <pointer:4> many )"}
+{"sent": "", "amr": "<pointer:0> trek-01 :ARG2 ( <pointer:1> workplace )"}
+{"sent": "", "amr": "<pointer:0> sit-01 :ARG1 ( <pointer:1> person :ARG0 ( <pointer:2> work-01 ) :ARG0 ( <pointer:3> have-rel-role-91 :ARG2 ( <pointer:4> parent ) ) ) :ARG2 ( <pointer:5> idle )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> work-01 ) :ARG0 ( <pointer:2> have-rel-role-91 :ARG2 ( <pointer:3> parent ) )"}
+{"sent": "", "amr": "<pointer:0> have-rel-role-91 :ARG2 ( <pointer:1> parent )"}
+{"sent": "", "amr": "<pointer:0> predict-01 :ARG0 ( <pointer:1> she ) :ARG1 ( <pointer:2> spur-01 :ARG0 ( <pointer:3> and :op1 ( <pointer:4> lay-off-02 :mod ( <pointer:5> massive ) ) :op2 ( <pointer:6> Elementary :mod ( <pointer:7> remote ) ) :ARG1 ( <pointer:8> arise-02 :ARG0 ( <pointer:9> pandemic ) ) ) ) :mod ( <pointer:10> also )"}
+{"sent": "", "amr": "<pointer:0> predict-01 :ARG0 ( <pointer:1> she ) :ARG1 ( <pointer:2> spur-01 :ARG0 ( <pointer:3> and :op1 ( <pointer:4> lay-off-02 :mod ( <pointer:5> massive ) ) :op2 ( <pointer:6> Elementary :mod ( <pointer:7> remote ) ) :ARG1 ( <pointer:8> arise-02 :ARG0 ( <pointer:9> pandemic ) ) ) ) :rel ( <pointer:10> crisis :mod ( <pointer:11> cope-01 :ARG1 ( <pointer:12> child :op3 ( <pointer:13> DRAG ) :ARG1 <pointer:14> ) ) :topic ( <pointer:14> care-03 ) )"}
+{"sent": "", "amr": "<pointer:0> predict-01 :ARG0 ( <pointer:1> she ) :ARG1 ( <pointer:2> spur-01 :ARG0 ( <pointer:3> and :op1 ( <pointer:4> lay-off-02 :mod ( <pointer:5> massive ) ) :op2 ( <pointer:6> Elementary :mod ( <pointer:7> remote ) ) :ARG1 ( <pointer:8> arise-02 :ARG0 ( <pointer:9> pandemic ) ) ) ) :rel ( <pointer:10> new-01 :ARG1 ( <pointer:11> movement-07 :ARG1 <pointer:12> ) :ARG1 ( <pointer:12> entrepreneur ) )"}
+{"sent": "", "amr": "<pointer:0> predict-01 :ARG0 ( <pointer:1> she ) :ARG1 ( <pointer:2> spur-01 :ARG0 ( <pointer:3> and :op1 ( <pointer:4> lay-off-02 :mod ( <pointer:5> massive ) ) :op2 ( <pointer:6> Elementary :mod ( <pointer:7> remote ) ) :ARG1 ( <pointer:8> arise-02 :ARG0 ( <pointer:9> pandemic ) ) ) ) :rel ( <pointer:10> movement-07 :ARG1 ( <pointer:11> entrepreneur ) )"}
+{"sent": "", "amr": "<pointer:0> predict-01 :ARG0 ( <pointer:1> she ) :ARG1 ( <pointer:2> spur-01 :ARG0 ( <pointer:3> and :op1 ( <pointer:4> lay-off-02 :mod ( <pointer:5> massive ) ) :op2 ( <pointer:6> Elementary :mod ( <pointer:7> remote ) ) :ARG1 ( <pointer:8> arise-02 :ARG0 ( <pointer:9> pandemic ) ) ) ) :rel ( <pointer:10> entrepreneur )"}
+{"sent": "", "amr": "<pointer:0> spur-01 :ARG0 ( <pointer:1> and :op1 ( <pointer:2> lay-off-02 :mod ( <pointer:3> massive ) ) :op2 ( <pointer:4> Elementary :mod ( <pointer:5> remote ) ) :ARG1 ( <pointer:6> arise-02 :ARG0 ( <pointer:7> pandemic ) ) )"}
+{"sent": "", "amr": "<pointer:0> and :ARG1 ( <pointer:1> arise-02 :ARG0 ( <pointer:2> pandemic ) ) :op1 ( <pointer:3> lay-off-02 :mod ( <pointer:4> massive ) ) :op2 ( <pointer:5> Elementary :mod ( <pointer:6> remote ) )"}
+{"sent": "", "amr": "<pointer:0> arise-02 :ARG0 ( <pointer:1> pandemic )"}
+{"sent": "", "amr": "<pointer:0> cope-01 :ARG1 ( <pointer:1> child :op3 ( <pointer:2> DRAG ) :ARG1 ( <pointer:3> care-03 ) )"}
+{"sent": "", "amr": "<pointer:0> child :ARG1 ( <pointer:1> care-03 ) :op3 ( <pointer:2> DRAG )"}
+{"sent": "", "amr": "<pointer:0> new-01 :ARG1 ( <pointer:1> movement-07 :ARG1 ( <pointer:2> entrepreneur ) ) :ARG1 <pointer:2>"}
+{"sent": "", "amr": "<pointer:0> movement-07 :ARG1 ( <pointer:1> entrepreneur )"}
+{"sent": "", "amr": "<pointer:0> see-01 :ARG0 ( <pointer:1> you ) :ARG1 ( <pointer:2> boon :consist ( <pointer:3> person :ARG0 ( <pointer:4> found-01 ) ) )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> found-01 )"}
+{"sent": "", "amr": "<pointer:0> person :ARG1 ( <pointer:1> sick-04 :ARG0 ( <pointer:2> thing :ARG1 ( <pointer:3> go-on-15 :time ( <pointer:4> now :mod ( <pointer:5> right ) ) ) ) :degree ( <pointer:6> so ) :ARG0 ( <pointer:7> cause-01 :ARG1 ( <pointer:8> come-up-11 :ARG1 ( <pointer:9> solution :purpose ( <pointer:10> and :op1 ( <pointer:11> make-01 :ARG1 ( <pointer:12> business ) ) :op2 ( <pointer:13> go-02 :ARG0 ( <pointer:14> mom ) :ARG4 ( <pointer:15> work-01 ) ) :op3 ( <pointer:16> homeschool-01 :ARG1 ( <pointer:17> person :ARG0 ( <pointer:18> have-rel-role-91 :ARG2 ( <pointer:19> child ) ) ) ) ) ) ) ) ) :ARG0 <pointer:8> :ARG0 <pointer:11> :ARG0 <pointer:15> :ARG0 <pointer:16> :ARG1 <pointer:18> :mod <pointer:14>"}
+{"sent": "", "amr": "<pointer:0> person :ARG1 ( <pointer:1> sick-04 :ARG0 ( <pointer:2> thing :ARG1 ( <pointer:3> go-on-15 :time ( <pointer:4> now :mod ( <pointer:5> right ) ) ) ) :degree ( <pointer:6> so ) :ARG0 ( <pointer:7> cause-01 :ARG1 ( <pointer:8> come-up-11 :ARG1 ( <pointer:9> solution :purpose ( <pointer:10> and :op1 ( <pointer:11> make-01 :ARG1 ( <pointer:12> business ) ) :op2 ( <pointer:13> go-02 :ARG0 ( <pointer:14> mom ) :ARG4 ( <pointer:15> work-01 ) ) :op3 ( <pointer:16> homeschool-01 :ARG1 ( <pointer:17> person :ARG0 ( <pointer:18> have-rel-role-91 :ARG2 ( <pointer:19> child ) ) ) ) ) ) ) ) ) :ARG0 <pointer:8> :ARG0 <pointer:11> :ARG0 <pointer:15> :ARG0 <pointer:16> :ARG1 <pointer:18> :poss <pointer:12>"}
+{"sent": "", "amr": "<pointer:0> sick-04 :ARG0 ( <pointer:1> thing :ARG1 ( <pointer:2> go-on-15 :time ( <pointer:3> now :mod ( <pointer:4> right ) ) ) ) :ARG0 ( <pointer:5> cause-01 :ARG1 ( <pointer:6> come-up-11 :ARG1 ( <pointer:7> solution :purpose ( <pointer:8> and :op1 ( <pointer:9> make-01 :ARG1 ( <pointer:10> business ) ) :op2 ( <pointer:11> go-02 :ARG0 ( <pointer:12> mom ) :ARG4 ( <pointer:13> work-01 ) ) :op3 ( <pointer:14> homeschool-01 :ARG1 ( <pointer:15> person :ARG0 ( <pointer:16> have-rel-role-91 :ARG2 ( <pointer:17> child ) ) ) ) ) ) ) ) :degree ( <pointer:18> so )"}
+{"sent": "", "amr": "<pointer:0> thing :ARG1 ( <pointer:1> go-on-15 :time ( <pointer:2> now :mod ( <pointer:3> right ) ) )"}
+{"sent": "", "amr": "<pointer:0> cause-01 :ARG1 ( <pointer:1> come-up-11 :ARG1 ( <pointer:2> solution :purpose ( <pointer:3> and :op1 ( <pointer:4> make-01 :ARG1 ( <pointer:5> business ) ) :op2 ( <pointer:6> go-02 :ARG0 ( <pointer:7> mom ) :ARG4 ( <pointer:8> work-01 ) ) :op3 ( <pointer:9> homeschool-01 :ARG1 ( <pointer:10> person :ARG0 ( <pointer:11> have-rel-role-91 :ARG2 ( <pointer:12> child ) ) ) ) ) ) )"}
+{"sent": "", "amr": "<pointer:0> come-up-11 :ARG1 ( <pointer:1> solution :purpose ( <pointer:2> and :op1 ( <pointer:3> make-01 :ARG1 ( <pointer:4> business ) ) :op2 ( <pointer:5> go-02 :ARG0 ( <pointer:6> mom ) :ARG4 ( <pointer:7> work-01 ) ) :op3 ( <pointer:8> homeschool-01 :ARG1 ( <pointer:9> person :ARG0 ( <pointer:10> have-rel-role-91 :ARG2 ( <pointer:11> child ) ) ) ) ) )"}
+{"sent": "", "amr": "<pointer:0> make-01 :ARG1 ( <pointer:1> business )"}
+{"sent": "", "amr": "<pointer:0> go-02 :ARG0 ( <pointer:1> mom ) :ARG4 ( <pointer:2> work-01 )"}
+{"sent": "", "amr": "<pointer:0> homeschool-01 :ARG1 ( <pointer:1> person :ARG0 ( <pointer:2> have-rel-role-91 :ARG2 ( <pointer:3> child ) ) )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> have-rel-role-91 :ARG2 ( <pointer:2> child ) )"}
+{"sent": "", "amr": "<pointer:0> have-rel-role-91 :ARG2 ( <pointer:1> child )"}
+{"sent": "", "amr": "<pointer:0> cause-01 :ARG1 ( <pointer:1> want-01 :ARG0 ( <pointer:2> i :ARG0 <pointer:3> ) :ARG1 ( <pointer:3> design-01 :ARG1 ( <pointer:4> something :mod ( <pointer:5> stylish ) :ARG1 ( <pointer:6> work-09 :ARG2 ( <pointer:7> they ) ) ) ) )"}
+{"sent": "", "amr": "<pointer:0> want-01 :ARG0 ( <pointer:1> i :ARG0 ( <pointer:2> design-01 :ARG1 ( <pointer:3> something :mod ( <pointer:4> stylish ) :ARG1 ( <pointer:5> work-09 :ARG2 ( <pointer:6> they ) ) ) ) ) :ARG1 <pointer:2>"}
+{"sent": "", "amr": "<pointer:0> i :ARG0 ( <pointer:1> design-01 :ARG1 ( <pointer:2> something :mod ( <pointer:3> stylish ) :ARG1 ( <pointer:4> work-09 :ARG2 ( <pointer:5> they ) ) ) )"}
+{"sent": "", "amr": "<pointer:0> design-01 :ARG1 ( <pointer:1> something :mod ( <pointer:2> stylish ) :ARG1 ( <pointer:3> work-09 :ARG2 ( <pointer:4> they ) ) )"}
+{"sent": "", "amr": "<pointer:0> something :ARG1 ( <pointer:1> work-09 :ARG2 ( <pointer:2> they ) ) :mod ( <pointer:3> stylish )"}
+{"sent": "", "amr": "<pointer:0> work-09 :ARG2 ( <pointer:1> they )"}
+{"sent": "", "amr": "<pointer:0> pump-01 :ARG1 ( <pointer:1> breast )"}
+{"sent": "", "amr": "<pointer:0> pump-01 :ARG1 ( <pointer:1> breast )"}
+{"sent": "", "amr": "<pointer:0> walk-01 :ARG2 ( <pointer:1> runway :mod ( <pointer:2> swimsuit ) ) :time ( <pointer:3> breastfeed-01 :time ( <pointer:4> bear-02 :ARG1 ( <pointer:5> bear-02 ) ) )"}
+{"sent": "", "amr": "<pointer:0> bear-02 :ARG1 ( <pointer:1> bear-02 )"}
+{"sent": "", "amr": "<pointer:0> state-01 :ARG1 ( <pointer:1> fashion ) :ARG1 ( <pointer:2> personal-02 :degree ( <pointer:3> most ) ) :time ( <pointer:4> yet )"}
+{"sent": "", "amr": "<pointer:0> care-03 :ARG1 ( <pointer:1> person :mod ( <pointer:2> other ) )"}
+{"sent": "", "amr": "<pointer:0> focus-01 :ARG2 ( <pointer:1> you ) :mod ( <pointer:2> Adamant )"}
+{"sent": "", "amr": "<pointer:0> want-01 :ARG0 ( <pointer:1> i :ARG0 ( <pointer:2> create-01 :ARG1 ( <pointer:3> something :ARG1 ( <pointer:4> specific-02 ) ) :purpose <pointer:5> ) :ARG0 ( <pointer:5> help-01 :ARG0 <pointer:3> :ARG1 ( <pointer:6> and :location ( <pointer:7> amidst :op1 ( <pointer:8> Anti-Slavery :op2 ( <pointer:9> experience-01 :ARG0 <pointer:17> :domain ( <pointer:10> have-rel-role-91 :ARG1 ( <pointer:11> someone ) :ARG2 ( <pointer:12> mom ) ) :mod ( <pointer:13> chaos ) :ARG1 ( <pointer:14> beautiful-02 ) ) ) ) :op1 ( <pointer:15> look-01 :ARG1 <pointer:20> ) :op2 ( <pointer:16> feel-01 ) ) :ARG2 ( <pointer:17> person :ARG0 ( <pointer:18> have-rel-role-91 :ARG2 ( <pointer:19> mom ) ) :ARG0 <pointer:10> :ARG0 <pointer:15> :ARG1 ( <pointer:20> good-02 :degree ( <pointer:21> most ) :ARG1 <pointer:16> ) :ARG0 <pointer:16> ) ) ) :ARG1 <pointer:2>"}
+{"sent": "", "amr": "<pointer:0> i :ARG0 ( <pointer:1> create-01 :ARG1 ( <pointer:2> something :ARG1 ( <pointer:3> specific-02 ) ) :purpose ( <pointer:4> help-01 :ARG0 <pointer:2> :ARG1 ( <pointer:5> and :location ( <pointer:6> amidst :op1 ( <pointer:7> Anti-Slavery :op2 ( <pointer:8> experience-01 :ARG0 <pointer:16> :domain ( <pointer:9> have-rel-role-91 :ARG1 ( <pointer:10> someone ) :ARG2 ( <pointer:11> mom ) ) :mod ( <pointer:12> chaos ) :ARG1 ( <pointer:13> beautiful-02 ) ) ) ) :op1 ( <pointer:14> look-01 :ARG1 <pointer:19> ) :op2 ( <pointer:15> feel-01 ) ) :ARG2 ( <pointer:16> person :ARG0 ( <pointer:17> have-rel-role-91 :ARG2 ( <pointer:18> mom ) ) :ARG0 <pointer:9> :ARG0 <pointer:14> :ARG1 ( <pointer:19> good-02 :degree ( <pointer:20> most ) :ARG1 <pointer:15> ) :ARG0 <pointer:15> ) ) ) :ARG0 <pointer:4>"}
+{"sent": "", "amr": "<pointer:0> create-01 :ARG1 ( <pointer:1> something :ARG1 ( <pointer:2> specific-02 ) ) :purpose ( <pointer:3> help-01 :ARG0 <pointer:1> :ARG1 ( <pointer:4> and :location ( <pointer:5> amidst :op1 ( <pointer:6> Anti-Slavery :op2 ( <pointer:7> experience-01 :ARG0 <pointer:15> :domain ( <pointer:8> have-rel-role-91 :ARG1 ( <pointer:9> someone ) :ARG2 ( <pointer:10> mom ) ) :mod ( <pointer:11> chaos ) :ARG1 ( <pointer:12> beautiful-02 ) ) ) ) :op1 ( <pointer:13> look-01 :ARG1 <pointer:18> ) :op2 ( <pointer:14> feel-01 ) ) :ARG2 ( <pointer:15> person :ARG0 ( <pointer:16> have-rel-role-91 :ARG2 ( <pointer:17> mom ) ) :ARG0 <pointer:8> :ARG0 <pointer:13> :ARG1 ( <pointer:18> good-02 :degree ( <pointer:19> most ) :ARG1 <pointer:14> ) :ARG0 <pointer:14> ) )"}
+{"sent": "", "amr": "<pointer:0> help-01 :ARG0 ( <pointer:1> something :ARG1 ( <pointer:2> specific-02 ) ) :ARG1 ( <pointer:3> and :location ( <pointer:4> amidst :op1 ( <pointer:5> Anti-Slavery :op2 ( <pointer:6> experience-01 :ARG0 ( <pointer:7> person :ARG0 ( <pointer:8> have-rel-role-91 :ARG2 ( <pointer:9> mom ) ) :ARG0 <pointer:12> :ARG0 <pointer:17> :ARG1 ( <pointer:10> good-02 :degree ( <pointer:11> most ) :ARG1 <pointer:18> ) :ARG0 <pointer:18> ) :domain ( <pointer:12> have-rel-role-91 :ARG1 ( <pointer:13> someone ) :ARG2 ( <pointer:14> mom ) ) :mod ( <pointer:15> chaos ) :ARG1 ( <pointer:16> beautiful-02 ) ) ) ) :op1 ( <pointer:17> look-01 :ARG1 <pointer:10> ) :op2 ( <pointer:18> feel-01 ) ) :ARG2 <pointer:7>"}
+{"sent": "", "amr": "<pointer:0> something :ARG1 ( <pointer:1> specific-02 )"}
+{"sent": "", "amr": "<pointer:0> experience-01 :ARG0 ( <pointer:1> person :ARG0 ( <pointer:2> have-rel-role-91 :ARG2 ( <pointer:3> mom ) ) :ARG0 ( <pointer:4> have-rel-role-91 :ARG1 ( <pointer:5> someone ) :ARG2 ( <pointer:6> mom ) ) :ARG0 ( <pointer:7> look-01 :ARG1 <pointer:8> ) :ARG1 ( <pointer:8> good-02 :degree ( <pointer:9> most ) :ARG1 <pointer:10> ) :ARG0 ( <pointer:10> feel-01 ) ) :ARG1 ( <pointer:11> beautiful-02 ) :domain <pointer:4>"}
+{"sent": "", "amr": "<pointer:0> experience-01 :ARG0 ( <pointer:1> person :ARG0 ( <pointer:2> have-rel-role-91 :ARG2 ( <pointer:3> mom ) ) :ARG0 ( <pointer:4> have-rel-role-91 :ARG1 ( <pointer:5> someone ) :ARG2 ( <pointer:6> mom ) ) :ARG0 ( <pointer:7> look-01 :ARG1 <pointer:8> ) :ARG1 ( <pointer:8> good-02 :degree ( <pointer:9> most ) :ARG1 <pointer:10> ) :ARG0 ( <pointer:10> feel-01 ) ) :ARG1 ( <pointer:11> beautiful-02 ) :mod ( <pointer:12> chaos )"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> have-rel-role-91 :ARG2 ( <pointer:2> mom ) ) :ARG0 ( <pointer:3> have-rel-role-91 :ARG1 ( <pointer:4> someone ) :ARG2 ( <pointer:5> mom ) ) :ARG0 ( <pointer:6> look-01 :ARG1 ( <pointer:7> good-02 :degree ( <pointer:8> most ) :ARG1 ( <pointer:9> feel-01 ) :ARG1-of <pointer:0> ) ) :ARG0 <pointer:9>"}
+{"sent": "", "amr": "<pointer:0> have-rel-role-91 :ARG2 ( <pointer:1> mom )"}
+{"sent": "", "amr": "<pointer:0> have-rel-role-91 :ARG1 ( <pointer:1> someone ) :ARG2 ( <pointer:2> mom )"}
+{"sent": "", "amr": "<pointer:0> look-01 :ARG1 ( <pointer:1> good-02 :degree ( <pointer:2> most ) :ARG1 ( <pointer:3> feel-01 ) )"}
+{"sent": "", "amr": "<pointer:0> good-02 :ARG1 ( <pointer:1> feel-01 ) :degree ( <pointer:2> most )"}
+{"sent": "", "amr": "<pointer:0> and :ARG1 ( <pointer:1> include-01 ) :op1 ( <pointer:2> person :ARG0 ( <pointer:3> sing-01 :manner ( <pointer:4> capella ) ) ) :op1 ( <pointer:5> print :mod ( <pointer:6> eclectic ) :ARG1 ( <pointer:7> mix-01 ) ) :op2 ( <pointer:8> screen-03 :ARG1 ( <pointer:9> video ) ) :op2 ( <pointer:10> t-shirt :mod ( <pointer:11> vintage ) ) :op3 ( <pointer:12> jacket :mod ( <pointer:13> track :mod ( <pointer:14> race ) ) :ARG1 ( <pointer:15> sequin-01 ) )"}
+{"sent": "", "amr": "<pointer:0> spend-02 :ARG0 ( <pointer:1> person :quant ( <pointer:2> many ) ) :ARG1 ( <pointer:3> time :quant ( <pointer:4> lot ) ) :ARG2 ( <pointer:5> home ) :ARG1 ( <pointer:6> cause-01 :ARG0 ( <pointer:7> pandemic :mod ( <pointer:8> globe ) ) ) :mod ( <pointer:9> still )"}
+{"sent": "", "amr": "<pointer:0> see-01 :ARG1 ( <pointer:1> dream-01 :ARG1 ( <pointer:2> and :op1 ( <pointer:3> time :ARG1 ( <pointer:4> good-02 :degree ( <pointer:5> more ) ) ) :op2 ( <pointer:6> jet-01 :destination ( <pointer:7> yuan :ARG1 ( <pointer:8> fly-01 :ARG2 ( <pointer:9> far ) ) ) ) ) ) :rel ( <pointer:10> weptions-01 :ARG0 <pointer:10> )"}
+{"sent": "", "amr": "<pointer:0> take-01 :ARG0 ( <pointer:1> person :quant ( <pointer:2> some ) :ARG0 ( <pointer:3> design-01 ) :ARG0 ( <pointer:4> share-01 :ARG1 ( <pointer:5> message-01 :ARG1 ( <pointer:6> and :op1 ( <pointer:7> activist ) :op2 ( <pointer:8> empower-01 ) ) ) ) ) :ARG1 ( <pointer:9> advantage ) :ARG2 ( <pointer:10> Afro-Asiatic ) :ARG2 <pointer:4> :prep-along-with ( <pointer:11> display-01 :ARG1 ( <pointer:12> opulence ) :ARG1 ( <pointer:13> expect-01 ) )"}
+{"sent": "", "amr": "<pointer:0> take-01 :ARG0 ( <pointer:1> person :quant ( <pointer:2> some ) :ARG0 ( <pointer:3> design-01 ) :ARG0 ( <pointer:4> share-01 :ARG1 ( <pointer:5> message-01 :ARG1 ( <pointer:6> and :op1 ( <pointer:7> activist ) :op2 ( <pointer:8> empower-01 ) ) ) ) ) :ARG1 ( <pointer:9> advantage ) :ARG2 ( <pointer:10> Afro-Asiatic ) :ARG2 <pointer:4> :rel ( <pointer:11> fashion :prep-with ( <pointer:12> message ) )"}
+{"sent": "", "amr": "<pointer:0> take-01 :ARG0 ( <pointer:1> person :quant ( <pointer:2> some ) :ARG0 ( <pointer:3> design-01 ) :ARG0 ( <pointer:4> share-01 :ARG1 ( <pointer:5> message-01 :ARG1 ( <pointer:6> and :op1 ( <pointer:7> activist ) :op2 ( <pointer:8> empower-01 ) ) ) ) ) :ARG1 ( <pointer:9> advantage ) :ARG2 ( <pointer:10> Afro-Asiatic ) :ARG2 <pointer:4> :rel ( <pointer:11> digit )"}
+{"sent": "", "amr": "<pointer:0> take-01 :ARG0 ( <pointer:1> person :quant ( <pointer:2> some ) :ARG0 ( <pointer:3> design-01 ) :ARG0 ( <pointer:4> share-01 :ARG1 ( <pointer:5> message-01 :ARG1 ( <pointer:6> and :op1 ( <pointer:7> activist ) :op2 ( <pointer:8> empower-01 ) ) ) ) ) :ARG1 ( <pointer:9> advantage ) :ARG2 ( <pointer:10> Afro-Asiatic ) :ARG2 <pointer:4> :rel ( <pointer:11> platform )"}
+{"sent": "", "amr": "<pointer:0> brand :ARG1 ( <pointer:1> know-02 :ARG2 ( <pointer:2> show-04 :ARG3 ( <pointer:3> runway ) :mod ( <pointer:4> diverse ) :ARG0 ( <pointer:5> celebrate-01 :ARG1 ( <pointer:6> body :mod ( <pointer:7> all ) ) ) ) ) :ARG0 <pointer:2> :mod ( <pointer:8> swimwear :mod ( <pointer:9> architecture ) )"}
+{"sent": "", "amr": "<pointer:0> brand :ARG1 ( <pointer:1> know-02 :ARG2 ( <pointer:2> show-04 :ARG3 ( <pointer:3> runway ) :mod ( <pointer:4> diverse ) :ARG0 ( <pointer:5> celebrate-01 :ARG1 ( <pointer:6> body :mod ( <pointer:7> all ) ) ) ) ) :ARG0 <pointer:2> :mod ( <pointer:8> sport )"}
+{"sent": "", "amr": "<pointer:0> platform :ARG1 ( <pointer:1> new-01 ) :location ( <pointer:2> possible-01 )"}
+{"sent": "", "amr": "<pointer:0> do-02 :ARG0 ( <pointer:1> i :part ( <pointer:2> head ) ) :ARG1 ( <pointer:3> it ) :degree ( <pointer:4> kind-of )"}
+{"sent": "", "amr": "<pointer:0> do-02 :ARG0 ( <pointer:1> i :part ( <pointer:2> head ) ) :ARG1 ( <pointer:3> it ) :duration ( <pointer:4> while )"}
+{"sent": "", "amr": "<pointer:0> do-02 :ARG0 ( <pointer:1> i :part ( <pointer:2> head ) ) :ARG1 ( <pointer:3> it ) :location <pointer:2>"}
+{"sent": "", "amr": "<pointer:0> present-01 :ARG0 ( <pointer:1> he :ARG0 ( <pointer:2> collect-01 ) :poss ( <pointer:3> slot ) ) :ARG1 ( <pointer:4> image :topic <pointer:2> ) :location <pointer:3>"}
+{"sent": "", "amr": "<pointer:0> present-01 :ARG0 ( <pointer:1> he :ARG0 ( <pointer:2> collect-01 ) :poss ( <pointer:3> slot ) ) :ARG1 ( <pointer:4> image :topic <pointer:2> ) :time ( <pointer:5> season :mod ( <pointer:6> this ) )"}
+{"sent": "", "amr": "<pointer:0> present-01 :ARG0 ( <pointer:1> he :ARG0 ( <pointer:2> collect-01 ) :poss ( <pointer:3> slot ) ) :ARG1 ( <pointer:4> image :topic <pointer:2> ) :time ( <pointer:5> date-entity :weekday ( <pointer:6> wednesday ) )"}
+{"sent": "", "amr": "<pointer:0> everybody :ARG1 ( <pointer:1> put-03 :ARG2 ( <pointer:2> last-01 ) :manner ( <pointer:3> stressing-03 ) ) :ARG1 <pointer:2> :ARG1 <pointer:3> :ARG0 ( <pointer:4> rethink-01 :ARG1 ( <pointer:5> do-02 :ARG1 ( <pointer:6> it ) :manner ( <pointer:7> amr-unknown ) :ARG0-of <pointer:0> ) :mod ( <pointer:8> kind-of ) )"}
+{"sent": "", "amr": "<pointer:0> dress :ARG1 ( <pointer:1> print-01 ) :ARG1 ( <pointer:2> loose-04 ) :ARG1 ( <pointer:3> style-01 :ARG2 ( <pointer:4> sneaker :mod ( <pointer:5> glittery ) :mod ( <pointer:6> chunk ) ) ) :mod ( <pointer:7> flor )"}
+{"sent": "", "amr": "<pointer:0> dress :ARG1 ( <pointer:1> print-01 ) :ARG1 ( <pointer:2> loose-04 ) :ARG1 ( <pointer:3> style-01 :ARG2 ( <pointer:4> sneaker :mod ( <pointer:5> glittery ) :mod ( <pointer:6> chunk ) ) ) :mod ( <pointer:7> trippy )"}
+{"sent": "", "amr": "<pointer:0> serve-01 :ARG0 ( <pointer:1> they ) :ARG1 ( <pointer:2> pose :ARG1 ( <pointer:3> serious-01 ) ) :rel ( <pointer:4> Intel-01 )"}
+{"sent": "", "amr": "<pointer:0> predict-01 :ARG0 ( <pointer:1> she ) :ARG1 ( <pointer:2> spur-01 :ARG0 ( <pointer:3> and :op1 ( <pointer:4> lay-off-02 :mod ( <pointer:5> massive ) ) :op2 ( <pointer:6> Elementary :mod ( <pointer:7> remote ) ) :ARG1 ( <pointer:8> arise-02 :ARG0 ( <pointer:9> pandemic ) ) ) ) :rel ( <pointer:10> movement-07 :ARG1 ( <pointer:11> entrepreneur ) )"}
+{"sent": "", "amr": "<pointer:0> predict-01 :ARG0 ( <pointer:1> she ) :ARG1 ( <pointer:2> spur-01 :ARG0 ( <pointer:3> and :op1 ( <pointer:4> lay-off-02 :mod ( <pointer:5> massive ) ) :op2 ( <pointer:6> Elementary :mod ( <pointer:7> remote ) ) :ARG1 ( <pointer:8> arise-02 :ARG0 ( <pointer:9> pandemic ) ) ) ) :rel ( <pointer:10> entrepreneur )"}
+{"sent": "", "amr": "<pointer:0> person :ARG1 ( <pointer:1> sick-04 :ARG0 ( <pointer:2> thing :ARG1 ( <pointer:3> go-on-15 :time ( <pointer:4> now :mod ( <pointer:5> right ) ) ) ) :degree ( <pointer:6> so ) :ARG0 ( <pointer:7> cause-01 :ARG1 ( <pointer:8> come-up-11 :ARG1 ( <pointer:9> solution :purpose ( <pointer:10> and :op1 ( <pointer:11> make-01 :ARG1 ( <pointer:12> business ) ) :op2 ( <pointer:13> go-02 :ARG0 ( <pointer:14> mom ) :ARG4 ( <pointer:15> work-01 ) ) :op3 ( <pointer:16> homeschool-01 :ARG1 ( <pointer:17> person :ARG0 ( <pointer:18> have-rel-role-91 :ARG2 ( <pointer:19> child ) ) ) ) ) ) ) ) ) :ARG0 <pointer:8> :ARG0 <pointer:11> :ARG0 <pointer:15> :ARG0 <pointer:16> :ARG1 <pointer:18> :mod <pointer:14>"}
+{"sent": "", "amr": "<pointer:0> person :ARG0 ( <pointer:1> have-rel-role-91 :ARG2 ( <pointer:2> mom ) ) :ARG0 ( <pointer:3> have-rel-role-91 :ARG1 ( <pointer:4> someone ) :ARG2 ( <pointer:5> mom ) ) :ARG0 ( <pointer:6> look-01 :ARG1 ( <pointer:7> good-02 :degree ( <pointer:8> most ) :ARG1 ( <pointer:9> feel-01 ) :ARG1-of <pointer:0> ) ) :ARG0 <pointer:9>"}
