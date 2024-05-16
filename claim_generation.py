@@ -15,14 +15,16 @@ def build_up_bash_file(file_path, outputdir, test_file):
     
     
     output = 'OutputDir=' + outputdir + '\n'
-    test = '--test_file ' +  '/home/grads/tingchih/Release/' + test_file
+    test = '--test_file ' + current_directory + '/' + test_file
+    full_path = current_directory + '/AMRBART/'
+    exc_cmd = 'python -u ' + current_directory + '/AMRBART/fine-tune/main.py \\'
 
     with open(file_path, 'w') as file:
         file.write('export CUDA_VISIBLE_DEVICES=0\n')
         file.write('source activate AMRBART\n')
         file.write('RootDir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"\n')
         file.write('Dataset=examples\n')
-        file.write('BasePath=/home/grads/tingchih/Release/AMRBART/\n')
+        file.write(f'BasePath={full_path}\n')
         file.write('DataPath=$RootDir/../$Dataset\n')
         file.write('ModelCate=AMRBART-large\n')
         file.write('MODEL=$1\n')
@@ -38,7 +40,7 @@ def build_up_bash_file(file_path, outputdir, test_file):
         file.write('  mkdir -p ${OutputDir}\n')
         file.write('fi\n')
         file.write('\n')
-        file.write('python -u /home/grads/tingchih/Release/AMRBART/fine-tune/main.py \\')
+        file.write(f'{exc_cmd}')
         file.write('\n')
         file.write('    --data_dir $DataPath \\')
         file.write('\n')
@@ -510,7 +512,10 @@ def main():
     args = parser.parse_args()
     process_data(args.input, args.output)
 
+
 if __name__ == '__main__':
+
+    current_directory = os.getcwd()
     main()
     # TODO
     """
