@@ -231,7 +231,7 @@ dependencies:
     - thinc==8.1.7
     - tokenizers==0.12.1
     - torchmetrics==0.11.4
-    - transformers==4.21.3
+    - transformers==4.16.2
     - typer==0.7.0
     - wandb==0.14.2
     - wasabi==1.1.1
