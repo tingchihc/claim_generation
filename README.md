@@ -1,5 +1,5 @@
 ## Project: When Trust is a Factor  
-[project URL](https://topics.engineering.columbia.edu/when-trust-is-a-factor/)  
+M3D: MultiModal MultiDocument Fine-Grained Inconsistency Detection [project URL](https://topics.engineering.columbia.edu/when-trust-is-a-factor/)  
 
 ## Updated:  
     1. fixed AMRBART.yaml  
